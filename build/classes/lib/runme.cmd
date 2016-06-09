@@ -1,0 +1,1 @@
+java -cp "*" net.zemberek.demo.DemoMain 

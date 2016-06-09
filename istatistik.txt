@@ -1,0 +1,2460 @@
+Karakter istatistikleri:
+------------------------
+Karakter Sayisi     : 26194
+Harf Sayisi         : 19506
+Kelime Sayisi       : 3278
+Cumle Sayisi        : 213
+Buyuk harf sayisi   : 500
+Boşluk sayısı       : 3564
+Nokta Sayisi        : 219
+Rakam Sayisi        : 311
+Ortalama Kelime uz. : 5.9505796217205615
+Ortalama Cümle uz.  : 15.389671361502348
+
+Harf Dagilimi
+Harf a: 2358 %12,089
+Harf i: 2186 %11,207
+Harf e: 2060 %10,561
+Harf r: 1698 %8,705
+Harf n: 1587 %8,136
+Harf l: 1408 %7,218
+Harf t: 900 %4,614
+Harf k: 885 %4,537
+Harf m: 800 %4,101
+Harf d: 767 %3,932
+Harf s: 744 %3,814
+Harf o: 672 %3,445
+Harf y: 565 %2,897
+Harf u: 478 %2,451
+Harf b: 442 %2,266
+Harf p: 245 %1,256
+Harf g: 231 %1,184
+Harf c: 206 %1,056
+Harf h: 193 %0,989
+Harf v: 187 %0,959
+Harf z: 169 %0,866
+Harf f: 124 %0,636
+Harf C: 86 %0,441
+Harf T: 83 %0,426
+Harf j: 83 %0,426
+Harf B: 50 %0,256
+Harf I: 40 %0,205
+Harf A: 37 %0,190
+Harf D: 26 %0,133
+Harf S: 26 %0,133
+Harf Y: 23 %0,118
+Harf M: 21 %0,108
+Harf O: 18 %0,092
+Harf x: 18 %0,092
+Harf V: 12 %0,062
+Harf K: 10 %0,051
+Harf P: 9 %0,046
+Harf W: 9 %0,046
+Harf E: 8 %0,041
+Harf G: 7 %0,036
+Harf J: 7 %0,036
+Harf L: 6 %0,031
+Harf R: 6 %0,031
+Harf H: 5 %0,026
+Harf N: 5 %0,026
+Harf F: 4 %0,021
+Harf U: 1 %0,005
+Harf Z: 1 %0,005
+
+Genel istatistikler:
+------------------------
+
+En cok kullanilan ilk kac kok toplam koklerin yuzde kacini olusturuyor?:
+-> ilk 2 kok, toplamın %9.584245076586432
+-> ilk 5 kok, toplamın %18.599562363238512
+-> ilk 10 kok, toplamın %26.739606126914662
+-> ilk 20 kok, toplamın %35.667396061269145
+-> ilk 50 kok, toplamın %51.99124726477024
+-> ilk 100 kok, toplamın %66.95842450765865
+-> ilk 250 kok, toplamın %87.22100656455142
+
+
+Ek miktari kullanim oranlari:
+0 adet ek'e sahip kelime sayısı: 1193 Oran: %52,210
+1 adet ek'e sahip kelime sayısı: 455 Oran: %19,912
+2 adet ek'e sahip kelime sayısı: 191 Oran: %8,359
+3 adet ek'e sahip kelime sayısı: 46 Oran: %2,013
+4 adet ek'e sahip kelime sayısı: 4 Oran: %0,175
+5 adet ek'e sahip kelime sayısı: 0 Oran: %0,000
+6 adet ek'e sahip kelime sayısı: 0 Oran: %0,000
+7 adet ek'e sahip kelime sayısı: 0 Oran: %0,000
+8 adet ek'e sahip kelime sayısı: 0 Oran: %0,000
+9 adet ek'e sahip kelime sayısı: 0 Oran: %0,000
+10 adet ek'e sahip kelime sayısı: 0 Oran: %0,000
+11 adet ek'e sahip kelime sayısı: 0 Oran: %0,000
+12 adet ek'e sahip kelime sayısı: 0 Oran: %0,000
+13 adet ek'e sahip kelime sayısı: 0 Oran: %0,000
+14 adet ek'e sahip kelime sayısı: 0 Oran: %0,000
+
+
+Cozulebilen Kelime tip dagilimi (isaretleme eksikligi nedeniyle isim-fiil harici hatali olabilir):
+Toplam kelime sayısı: 2285
+Toplam isim sayisi: 1186  Oran: %51,904 Ortalama Boy : 5,838
+Toplam sıfat sayisi: 52  Oran: %2,276
+Toplam fiil sayisi: 312  Oran: %13,654 Ortalama Boy : 6,250
+Toplam Sayi sayisi: 140  Oran: %6,127
+Toplam kok sayisi: 396
+Toplam isim kök sayisi: 265  Oran: %66,919
+Toplam sıfat kök sayisi: 21  Oran: %5,303
+Toplam fiil kök sayisi: 78  Oran: %19,697
+
+
+
+En cok kullanilan kelimeler:
+1. [ bir ]  Kullanim: 122 Oran: % 5,339 Kapsama: % 5,339
+2. [ ve ]  Kullanim: 95 Oran: % 4,158 Kapsama: % 9,497
+3. [ yeni ]  Kullanim: 64 Oran: % 2,801 Kapsama: % 12,298
+4. [ bu ]  Kullanim: 50 Oran: % 2,188 Kapsama: % 14,486
+5. [ daha ]  Kullanim: 40 Oran: % 1,751 Kapsama: % 16,236
+6. [ olarak ]  Kullanim: 33 Oran: % 1,444 Kapsama: % 17,681
+7. [ bilgisayar ]  Kullanim: 29 Oran: % 1,269 Kapsama: % 18,950
+8. [ de ]  Kullanim: 26 Oran: % 1,138 Kapsama: % 20,088
+9. [ sonra ]  Kullanim: 23 Oran: % 1,007 Kapsama: % 21,094
+10. [ ok ]  Kullanim: 22 Oran: % 0,963 Kapsama: % 22,057
+11. [ ile ]  Kullanim: 19 Oran: % 0,832 Kapsama: % 22,888
+12. [ olan ]  Kullanim: 18 Oran: % 0,788 Kapsama: % 23,676
+13. [ ancak ]  Kullanim: 16 Oran: % 0,700 Kapsama: % 24,376
+14. [ teknoloji ]  Kullanim: 16 Oran: % 0,700 Kapsama: % 25,077
+15. [ en ]  Kullanim: 15 Oran: % 0,656 Kapsama: % 25,733
+16. [ ip ]  Kullanim: 15 Oran: % 0,656 Kapsama: % 26,389
+17. [ performans ]  Kullanim: 15 Oran: % 0,656 Kapsama: % 27,046
+18. [ teknik ]  Kullanim: 14 Oran: % 0,613 Kapsama: % 27,659
+19. [ teknolojik ]  Kullanim: 14 Oran: % 0,613 Kapsama: % 28,271
+20. [ iyi ]  Kullanim: 13 Oran: % 0,569 Kapsama: % 28,840
+21. [ nemli ]  Kullanim: 13 Oran: % 0,569 Kapsama: % 29,409
+22. [ ev ]  Kullanim: 12 Oran: % 0,525 Kapsama: % 29,934
+23. [ atari ]  Kullanim: 12 Oran: % 0,525 Kapsama: % 30,460
+24. [ grafik ]  Kullanim: 12 Oran: % 0,525 Kapsama: % 30,985
+25. [ fiyat ]  Kullanim: 12 Oran: % 0,525 Kapsama: % 31,510
+26. [ rekabeti ]  Kullanim: 11 Oran: % 0,481 Kapsama: % 31,991
+27. [ rekabet ]  Kullanim: 11 Oran: % 0,481 Kapsama: % 32,473
+28. [ ilgili ]  Kullanim: 10 Oran: % 0,438 Kapsama: % 32,910
+29. [ ortaya ]  Kullanim: 10 Oran: % 0,438 Kapsama: % 33,348
+30. [ stratejisi ]  Kullanim: 10 Oran: % 0,438 Kapsama: % 33,786
+31. [ mevcut ]  Kullanim: 9 Oran: % 0,394 Kapsama: % 34,179
+32. [ da ]  Kullanim: 9 Oran: % 0,394 Kapsama: % 34,573
+33. [ dolar ]  Kullanim: 9 Oran: % 0,394 Kapsama: % 34,967
+34. [ dk ]  Kullanim: 9 Oran: % 0,394 Kapsama: % 35,361
+35. [ karar ]  Kullanim: 9 Oran: % 0,394 Kapsama: % 35,755
+36. [ sadece ]  Kullanim: 9 Oran: % 0,394 Kapsama: % 36,149
+37. [ o ]  Kullanim: 8 Oran: % 0,350 Kapsama: % 36,499
+38. [ pazar ]  Kullanim: 8 Oran: % 0,350 Kapsama: % 36,849
+39. [ piyasaya ]  Kullanim: 8 Oran: % 0,350 Kapsama: % 37,199
+40. [ rakiplerin ]  Kullanim: 8 Oran: % 0,350 Kapsama: % 37,549
+41. [ hem ]  Kullanim: 8 Oran: % 0,350 Kapsama: % 37,899
+42. [ ayn ]  Kullanim: 8 Oran: % 0,350 Kapsama: % 38,249
+43. [ ilk ]  Kullanim: 8 Oran: % 0,350 Kapsama: % 38,600
+44. [ ipi ]  Kullanim: 7 Oran: % 0,306 Kapsama: % 38,906
+45. [ ses ]  Kullanim: 7 Oran: % 0,306 Kapsama: % 39,212
+46. [ kadar ]  Kullanim: 7 Oran: % 0,306 Kapsama: % 39,519
+47. [ ticari ]  Kullanim: 7 Oran: % 0,306 Kapsama: % 39,825
+48. [ kararlar ]  Kullanim: 7 Oran: % 0,306 Kapsama: % 40,131
+49. [ dolara ]  Kullanim: 7 Oran: % 0,306 Kapsama: % 40,438
+50. [ ne ]  Kullanim: 7 Oran: % 0,306 Kapsama: % 40,744
+51. [ her ]  Kullanim: 7 Oran: % 0,306 Kapsama: % 41,050
+52. [ iki ]  Kullanim: 7 Oran: % 0,306 Kapsama: % 41,357
+53. [ birlikte ]  Kullanim: 6 Oran: % 0,263 Kapsama: % 41,619
+54. [ sorun ]  Kullanim: 6 Oran: % 0,263 Kapsama: % 41,882
+55. [ zaman ]  Kullanim: 6 Oran: % 0,263 Kapsama: % 42,144
+56. [ zerinde ]  Kullanim: 6 Oran: % 0,263 Kapsama: % 42,407
+57. [ tek ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 42,626
+58. [ konusunda ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 42,845
+59. [ rakip ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 43,063
+60. [ devre ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 43,282
+61. [ yine ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 43,501
+62. [ bunu ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 43,720
+63. [ ekibi ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 43,939
+64. [ kar ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 44,158
+65. [ bilgisayarlar ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 44,376
+66. [ zerine ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 44,595
+67. [ ipler ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 44,814
+68. [ uygun ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 45,033
+69. [ apple ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 45,252
+70. [ teknolojinin ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 45,470
+71. [ temel ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 45,689
+72. [ iletme ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 45,908
+73. [ tahmin ]  Kullanim: 5 Oran: % 0,219 Kapsama: % 46,127
+74. [ k ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 46,302
+75. [ ileri ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 46,477
+76. [ bit ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 46,652
+77. [ ucuz ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 46,827
+78. [ nem ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 47,002
+79. [ disk ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 47,177
+80. [ durum ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 47,352
+81. [ zamanda ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 47,527
+82. [ atarinin ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 47,702
+83. [ bana ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 47,877
+84. [ modeli ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 48,053
+85. [ eklinde ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 48,228
+86. [ ipleri ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 48,403
+87. [ stratejisinin ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 48,578
+88. [ mutlaka ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 48,753
+89. [ oldu ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 48,928
+90. [ hatalar ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 49,103
+91. [ arada ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 49,278
+92. [ kullanacak ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 49,453
+93. [ aynda ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 49,628
+94. [ imkan ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 49,803
+95. [ para ]  Kullanim: 4 Oran: % 0,175 Kapsama: % 49,978
+96. [ sahip ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 50,109
+97. [ agresif ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 50,241
+98. [ an ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 50,372
+99. [ gerekten ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 50,503
+100. [ m ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 50,635
+101. [ ise ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 50,766
+102. [ teknolojisi ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 50,897
+103. [ biri ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 51,028
+104. [ sonradan ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 51,160
+105. [ pazarlama ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 51,291
+106. [ entegre ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 51,422
+107. [ olsa ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 51,554
+108. [ sebebi ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 51,685
+109. [ boyunca ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 51,816
+110. [ olur ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 51,947
+111. [ hata ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 52,079
+112. [ fazla ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 52,210
+113. [ buna ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 52,341
+114. [ vaka ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 52,473
+115. [ gelecekteki ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 52,604
+116. [ soru ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 52,735
+117. [ basit ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 52,867
+118. [ tahmini ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 52,998
+119. [ veya ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 53,129
+120. [ teknolojiyi ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 53,260
+121. [ sonucunda ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 53,392
+122. [ cevap ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 53,523
+123. [ oyun ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 53,654
+124. [ gereken ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 53,786
+125. [ nihayet ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 53,917
+126. [ tekrar ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 54,048
+127. [ video ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 54,179
+128. [ gerekir ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 54,311
+129. [ olmakla ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 54,442
+130. [ kalite ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 54,573
+131. [ patronu ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 54,705
+132. [ ediyordu ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 54,836
+133. [ olabilir ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 54,967
+134. [ zamanlama ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 55,098
+135. [ tam ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 55,230
+136. [ istenen ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 55,361
+137. [ orta ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 55,492
+138. [ sorunlar ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 55,624
+139. [ japon ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 55,755
+140. [ uzun ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 55,886
+141. [ bunun ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 56,018
+142. [ sat ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 56,149
+143. [ personeli ]  Kullanim: 3 Oran: % 0,131 Kapsama: % 56,280
+144. [ evriminde ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 56,368
+145. [ uyum ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 56,455
+146. [ satan ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 56,543
+147. [ genelinde ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 56,630
+148. [ bellek ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 56,718
+149. [ hala ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 56,805
+150. [ doru ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 56,893
+151. [ ak ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 56,980
+152. [ bile ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 57,068
+153. [ gelimi ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 57,155
+154. [ az ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 57,243
+155. [ fiyatla ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 57,330
+156. [ i ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 57,418
+157. [ kelime ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 57,505
+158. [ isimli ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 57,593
+159. [ gibi ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 57,681
+160. [ belirlenmesi ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 57,768
+161. [ ele ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 57,856
+162. [ fikirleri ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 57,943
+163. [ pay ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 58,031
+164. [ ey ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 58,118
+165. [ teknolojiyle ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 58,206
+166. [ bununla ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 58,293
+167. [ kayna ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 58,381
+168. [ neden ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 58,468
+169. [ ocak ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 58,556
+170. [ araya ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 58,643
+171. [ hedefleri ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 58,731
+172. [ hayati ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 58,818
+173. [ grup ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 58,906
+174. [ miktar ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 58,993
+175. [ model ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 59,081
+176. [ iplerinin ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 59,168
+177. [ gerektirir ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 59,256
+178. [ kinci ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 59,344
+179. [ bilgi ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 59,431
+180. [ iplerini ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 59,519
+181. [ montaj ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 59,606
+182. [ ait ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 59,694
+183. [ mal ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 59,781
+184. [ imkanlarla ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 59,869
+185. [ iken ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 59,956
+186. [ takdirde ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 60,044
+187. [ nesil ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 60,131
+188. [ ekti ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 60,219
+189. [ alan ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 60,306
+190. [ ekonomik ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 60,394
+191. [ verdi ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 60,481
+192. [ zerindeki ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 60,569
+193. [ piyasa ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 60,656
+194. [ ekerek ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 60,744
+195. [ karmak ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 60,832
+196. [ yapmak ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 60,919
+197. [ oyuncak ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 61,007
+198. [ ilgin ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 61,094
+199. [ kalitesini ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 61,182
+200. [ kaybetmeye ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 61,269
+201. [ onay ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 61,357
+202. [ uygulama ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 61,444
+203. [ satmak ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 61,532
+204. [ gelecekte ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 61,619
+205. [ maliyet ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 61,707
+206. [ garanti ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 61,794
+207. [ yapmaya ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 61,882
+208. [ devam ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 61,969
+209. [ fiyata ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 62,057
+210. [ fuardan ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 62,144
+211. [ alma ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 62,232
+212. [ isteyen ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 62,319
+213. [ etmektedir ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 62,407
+214. [ yenileme ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 62,495
+215. [ bulunarak ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 62,582
+216. [ proje ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 62,670
+217. [ herhangi ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 62,757
+218. [ yerine ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 62,845
+219. [ vadede ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 62,932
+220. [ mesela ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 63,020
+221. [ gerek ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 63,107
+222. [ kaliteli ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 63,195
+223. [ kendisi ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 63,282
+224. [ neler ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 63,370
+225. [ elde ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 63,457
+226. [ etti ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 63,545
+227. [ izliyordu ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 63,632
+228. [ iplerin ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 63,720
+229. [ zorunda ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 63,807
+230. [ engel ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 63,895
+231. [ gerekiyordu ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 63,982
+232. [ stratejik ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 64,070
+233. [ belirtelim ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 64,158
+234. [ binlerce ]  Kullanim: 2 Oran: % 0,088 Kapsama: % 64,245
+235. [ hedef ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,289
+236. [ nitelikte ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,333
+237. [ mitleri ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,376
+238. [ hale ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,420
+239. [ finansal ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,464
+240. [ makul ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,508
+241. [ olma ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,551
+242. [ projeler ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,595
+243. [ den ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,639
+244. [ anahtarlardan ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,683
+245. [ yeterince ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,726
+246. [ engellere ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,770
+247. [ tahmininden ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,814
+248. [ projenin ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,858
+249. [ izafi ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,902
+250. [ periyodik ]  Kullanim: 1 Oran: % 0,044 Kapsama: % 64,945
+
+
+
+En cok kullanilan kok ve bagli ek oranlari:
+1. <bir> Kullanım : 123 Oran : %5,383 Ortalama kelime uzunluğu : 2,976
+0. -- SAYI_KOK   Oran : %99,187 Toplam: %99,187
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %99,187
+
+2. <ve> Kullanım : 96 Oran : %4,201 Ortalama kelime uzunluğu : 1,979
+0. -- ISIM_KOK   Oran : %98,958 Toplam: %98,958
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %98,958
+
+3. <ol> Kullanım : 76 Oran : %3,326 Ortalama kelime uzunluğu : 5,342
+0. -- FIIL_KOK+FIIL_SUREKLILIK_EREK   Oran : %43,421 Toplam: %43,421
+1. -- FIIL_KOK+FIIL_DONUSUM_EN   Oran : %23,684 Toplam: %67,105
+2. -- FIIL_KOK+FIIL_GECMISZAMAN_DI   Oran : %5,263 Toplam: %72,368
+3. -- FIIL_KOK+FIIL_MASTAR_MEK+ISIM_BIRLIKTELIK_LE   Oran : %3,947 Toplam: %76,316
+4. -- FIIL_KOK+FIIL_SART_SE   Oran : %3,947 Toplam: %80,263
+5. -- FIIL_KOK+FIIL_YETENEK_EBIL+FIIL_GENISZAMAN_IR   Oran : %3,947 Toplam: %84,211
+6. -- FIIL_KOK+FIIL_GENISZAMAN_IR   Oran : %3,947 Toplam: %88,158
+7. -- FIIL_KOK+FIIL_GENISZAMAN_IR+IMEK_SART_SE   Oran : %1,316 Toplam: %89,474
+8. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME   Oran : %1,316 Toplam: %90,789
+9. -- FIIL_KOK+FIIL_EMIR_O_SIN   Oran : %1,316 Toplam: %92,105
+10. -- FIIL_KOK+FIIL_YETERSIZLIK_E+FIIL_OLUMSUZLUK_ME+FIIL_DONUSUM_EN   Oran : %1,316 Toplam: %93,421
+11. -- FIIL_KOK+FIIL_GELECEKZAMAN_ECEK   Oran : %1,316 Toplam: %94,737
+12. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME+FIIL_DONUSUM_EN   Oran : %1,316 Toplam: %96,053
+13. -- FIIL_KOK+FIIL_YETENEK_EBIL+FIIL_GELECEKZAMAN_ECEK   Oran : %1,316 Toplam: %97,368
+14. -- FIIL_KOK+FIIL_MASTAR_MEK   Oran : %1,316 Toplam: %98,684
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %98,684
+
+4. <yeni> Kullanım : 68 Oran : %2,976 Ortalama kelime uzunluğu : 4,191
+0. -- ISIM_KOK   Oran : %94,118 Toplam: %94,118
+1. -- ISIM_KOK+ISIM_BULUNMA_LIK+ISIM_COGUL_LER+ISIM_TAMLAMA_IN   Oran : %1,471 Toplam: %95,588
+2. -- ISIM_KOK+ISIM_CIKMA_DEN   Oran : %1,471 Toplam: %97,059
+3. -- ISIM_KOK+ISIM_BULUNMA_LIK+ISIM_CIKMA_DEN   Oran : %1,471 Toplam: %98,529
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %98,529
+
+5. <bu> Kullanım : 62 Oran : %2,713 Ortalama kelime uzunluğu : 2,484
+0. -- ZAMIR_KOK   Oran : %80,645 Toplam: %80,645
+1. -- ZAMIR_KOK+ISIM_BELIRTME_I   Oran : %8,065 Toplam: %88,710
+2. -- ZAMIR_KOK+ISIM_TAMLAMA_IN   Oran : %4,839 Toplam: %93,548
+3. -- ZAMIR_KOK+ISIM_TAMLAMA_IN+ISIM_BIRLIKTELIK_LE   Oran : %3,226 Toplam: %96,774
+4. -- ZAMIR_KOK+ISIM_TANIMLAMA_DIR   Oran : %1,613 Toplam: %98,387
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %98,387
+
+6. <ip> Kullanım : 45 Oran : %1,969 Ortalama kelime uzunluğu : 4,178
+0. -- ISIM_KOK   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %15,556 Toplam: %48,889
+2. -- ISIM_KOK+ISIM_COGUL_LER   Oran : %11,111 Toplam: %60,000
+3. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_BELIRTME_I   Oran : %8,889 Toplam: %68,889
+4. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_TAMLAMA_IN   Oran : %4,444 Toplam: %73,333
+5. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_SAHIPLIK_O_I+ISIM_TAMLAMA_IN   Oran : %4,444 Toplam: %77,778
+6. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_TAMLAMA_IN+ISIM_BELIRTME_I   Oran : %4,444 Toplam: %82,222
+7. -- ISIM_KOK+ISIM_TAMLAMA_I+ISIM_TANIMLAMA_DIR   Oran : %2,222 Toplam: %84,444
+8. -- ISIM_KOK+ISIM_TAMLAMA_IN   Oran : %2,222 Toplam: %86,667
+9. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_BELIRTME_I   Oran : %2,222 Toplam: %88,889
+10. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_KALMA_DE   Oran : %2,222 Toplam: %91,111
+11. -- ISIM_KOK+ISIM_KALMA_DE+ISIM_BULUNMA_KI   Oran : %2,222 Toplam: %93,333
+12. -- ISIM_KOK+ISIM_TAMLAMA_I+ISIM_TAMLAMA_IN   Oran : %2,222 Toplam: %95,556
+13. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_BIRLIKTELIK_LE   Oran : %2,222 Toplam: %97,778
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %97,778
+
+7. <daha> Kullanım : 41 Oran : %1,794 Ortalama kelime uzunluğu : 3,902
+0. -- ISIM_KOK   Oran : %97,561 Toplam: %97,561
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %97,561
+
+8. <teknoloji> Kullanım : 36 Oran : %1,575 Ortalama kelime uzunluğu : 10,500
+0. -- ISIM_KOK   Oran : %44,444 Toplam: %44,444
+1. -- ISIM_KOK+ISIM_TAMLAMA_IN   Oran : %13,889 Toplam: %58,333
+2. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %8,333 Toplam: %66,667
+3. -- ISIM_KOK+ISIM_BELIRTME_I   Oran : %8,333 Toplam: %75,000
+4. -- ISIM_KOK+ISIM_BIRLIKTELIK_LE   Oran : %5,556 Toplam: %80,556
+5. -- ISIM_KOK+ISIM_TAMLAMA_I+ISIM_BIRLIKTELIK_LE   Oran : %2,778 Toplam: %83,333
+6. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_KALMA_DE+ISIM_BULUNMA_KI   Oran : %2,778 Toplam: %86,111
+7. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_TAMLAMA_IN+ISIM_CIKMA_DEN   Oran : %2,778 Toplam: %88,889
+8. -- ISIM_KOK+ISIM_SAHIPLIK_O_I+ISIM_BELIRTME_I   Oran : %2,778 Toplam: %91,667
+9. -- ISIM_KOK+ISIM_YONELME_E   Oran : %2,778 Toplam: %94,444
+10. -- ISIM_KOK+ISIM_TAMLAMA_I+ISIM_YONELME_E   Oran : %2,778 Toplam: %97,222
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %97,222
+
+9. <bilgisayar> Kullanım : 35 Oran : %1,532 Ortalama kelime uzunluğu : 10,143
+0. -- ISIM_KOK   Oran : %82,857 Toplam: %82,857
+1. -- ISIM_KOK+ISIM_COGUL_LER   Oran : %14,286 Toplam: %97,143
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %97,143
+
+10. <de> Kullanım : 29 Oran : %1,269 Ortalama kelime uzunluğu : 2,138
+0. -- FIIL_KOK   Oran : %89,655 Toplam: %89,655
+1. -- FIIL_KOK+FIIL_EDILGENSESLI_N   Oran : %3,448 Toplam: %93,103
+2. -- FIIL_KOK+FIIL_EDILGENSESLI_N+FIIL_SUREKLILIK_EREK   Oran : %3,448 Toplam: %96,552
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %96,552
+
+11. <sonra> Kullanım : 29 Oran : %1,269 Ortalama kelime uzunluğu : 5,310
+0. -- ZAMAN_KOK   Oran : %79,310 Toplam: %79,310
+1. -- ZAMAN_KOK+ISIM_CIKMA_DEN   Oran : %10,345 Toplam: %89,655
+2. -- ZAMAN_KOK+ZAMAN_BELIRTME_KI   Oran : %3,448 Toplam: %93,103
+3. -- ZAMAN_KOK+ISIM_KISI_ONLAR_LER   Oran : %3,448 Toplam: %96,552
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %96,552
+
+12. <rekabet> Kullanım : 26 Oran : %1,138 Ortalama kelime uzunluğu : 7,385
+0. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %42,308 Toplam: %42,308
+1. -- ISIM_KOK   Oran : %42,308 Toplam: %84,615
+2. -- ISIM_KOK+ISIM_KALMA_DE   Oran : %3,846 Toplam: %88,462
+3. -- ISIM_KOK+ISIM_BIRLIKTELIK_LE   Oran : %3,846 Toplam: %92,308
+4. -- ISIM_KOK+ISIM_TAMLAMA_IN   Oran : %3,846 Toplam: %96,154
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %96,154
+
+13. <ok> Kullanım : 23 Oran : %1,007 Ortalama kelime uzunluğu : 1,913
+0. -- ISIM_KOK   Oran : %95,652 Toplam: %95,652
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %95,652
+
+14. <ile> Kullanım : 20 Oran : %0,875 Ortalama kelime uzunluğu : 2,850
+0. -- EDAT_KOK   Oran : %95,000 Toplam: %95,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %95,000
+
+15. <nem> Kullanım : 19 Oran : %0,832 Ortalama kelime uzunluğu : 4,474
+0. -- ISIM_KOK+ISIM_BULUNMA_LI   Oran : %68,421 Toplam: %68,421
+1. -- ISIM_KOK   Oran : %21,053 Toplam: %89,474
+2. -- ISIM_KOK+ISIM_BULUNMA_LI+ISIM_TANIMLAMA_DIR   Oran : %5,263 Toplam: %94,737
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %94,737
+
+16. <dolar> Kullanım : 18 Oran : %0,788 Ortalama kelime uzunluğu : 5,278
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK+ISIM_YONELME_E   Oran : %38,889 Toplam: %88,889
+2. -- ISIM_KOK+ISIM_CIKMA_DEN   Oran : %5,556 Toplam: %94,444
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %94,444
+
+17. <et> Kullanım : 18 Oran : %0,788 Ortalama kelime uzunluğu : 7,833
+0. -- FIIL_KOK+FIIL_SIMDIKIZAMAN_IYOR+IMEK_HIKAYE_DI   Oran : %16,667 Toplam: %16,667
+1. -- FIIL_KOK+FIIL_GECMISZAMAN_DI   Oran : %11,111 Toplam: %27,778
+2. -- FIIL_KOK+FIIL_MASTAR_MEK+ISIM_KALMA_DE+ISIM_TANIMLAMA_DIR   Oran : %11,111 Toplam: %38,889
+3. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME+FIIL_GELECEKZAMAN_ECEK+ISIM_TANIMLAMA_DIR   Oran : %5,556 Toplam: %44,444
+4. -- FIIL_KOK+FIIL_EDILGEN_IL+FIIL_DONUSUM_ME+ISIM_BULUNMA_LI   Oran : %5,556 Toplam: %50,000
+5. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME+FIIL_ISTEK_E   Oran : %5,556 Toplam: %55,556
+6. -- FIIL_KOK+FIIL_MASTAR_MEK+IMEK_HIKAYE_DI   Oran : %5,556 Toplam: %61,111
+7. -- FIIL_KOK+FIIL_DONUSUM_ME+ISIM_SAHIPLIK_ONLAR_LERI+ISIM_YONELME_E   Oran : %5,556 Toplam: %66,667
+8. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME+FIIL_GECMISZAMAN_DI+FIIL_KISI_ONLAR   Oran : %5,556 Toplam: %72,222
+9. -- FIIL_KOK+FIIL_YETENEK_EBIL+FIIL_GENISZAMAN_IR+IMEK_HIKAYE_DI   Oran : %5,556 Toplam: %77,778
+10. -- FIIL_KOK+FIIL_EDILGEN_IL+FIIL_DONUSUM_ME+ISIM_SAHIPLIK_O_I+ISIM_BELIRTME_I   Oran : %5,556 Toplam: %83,333
+11. -- FIIL_KOK+FIIL_EDILGEN_IL+FIIL_BELIRTME_DIK+ISIM_CIKMA_DEN   Oran : %5,556 Toplam: %88,889
+12. -- FIIL_KOK+FIIL_GECMISZAMAN_DI+FIIL_KISI_ONLAR   Oran : %5,556 Toplam: %94,444
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %94,444
+
+18. <rakip> Kullanım : 17 Oran : %0,744 Ortalama kelime uzunluğu : 7,647
+0. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_TAMLAMA_IN   Oran : %47,059 Toplam: %47,059
+1. -- ISIM_KOK   Oran : %29,412 Toplam: %76,471
+2. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_YONELME_E   Oran : %5,882 Toplam: %82,353
+3. -- ISIM_KOK+ISIM_TAMLAMA_IN   Oran : %5,882 Toplam: %88,235
+4. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_BELIRTME_I   Oran : %5,882 Toplam: %94,118
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %94,118
+
+19. <atari> Kullanım : 17 Oran : %0,744 Ortalama kelime uzunluğu : 5,412
+0. -- ISIM_KOK   Oran : %70,588 Toplam: %70,588
+1. -- ISIM_KOK+ISIM_TAMLAMA_IN   Oran : %23,529 Toplam: %94,118
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %94,118
+
+20. <ancak> Kullanım : 17 Oran : %0,744 Ortalama kelime uzunluğu : 4,706
+0. -- BAGLAC_KOK   Oran : %94,118 Toplam: %94,118
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %94,118
+
+21. <gerek> Kullanım : 17 Oran : %0,744 Ortalama kelime uzunluğu : 7,529
+0. -- FIIL_KOK+FIIL_DONUSUM_EN   Oran : %17,647 Toplam: %17,647
+1. -- ISIM_KOK+ISIM_CIKMA_DEN   Oran : %17,647 Toplam: %35,294
+2. -- FIIL_KOK+FIIL_GENISZAMAN_IR   Oran : %17,647 Toplam: %52,941
+3. -- FIIL_KOK+FIIL_SIMDIKIZAMAN_IYOR+IMEK_HIKAYE_DI   Oran : %11,765 Toplam: %64,706
+4. -- FIIL_KOK   Oran : %11,765 Toplam: %76,471
+5. -- FIIL_KOK+FIIL_ETTIRGEN_TIR+FIIL_GENISZAMAN_IR   Oran : %11,765 Toplam: %88,235
+6. -- FIIL_KOK+FIIL_ETTIRGEN_TIR+FIIL_DONUSUM_EN   Oran : %5,882 Toplam: %94,118
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %94,118
+
+22. <performans> Kullanım : 17 Oran : %0,744 Ortalama kelime uzunluğu : 9,471
+0. -- ISIM_KOK   Oran : %88,235 Toplam: %88,235
+1. -- ISIM_KOK+ISIM_YONELME_E   Oran : %5,882 Toplam: %94,118
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %94,118
+
+23. <en> Kullanım : 16 Oran : %0,700 Ortalama kelime uzunluğu : 1,875
+0. -- ISIM_KOK   Oran : %93,750 Toplam: %93,750
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %93,750
+
+24. <strateji> Kullanım : 16 Oran : %0,700 Ortalama kelime uzunluğu : 10,250
+0. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %62,500 Toplam: %62,500
+1. -- ISIM_KOK+ISIM_TAMLAMA_I+ISIM_TAMLAMA_IN   Oran : %25,000 Toplam: %87,500
+2. -- ISIM_KOK+ISIM_SAHIPLIK_O_I+ISIM_BELIRTME_I   Oran : %6,250 Toplam: %93,750
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %93,750
+
+25. <fiyat> Kullanım : 16 Oran : %0,700 Ortalama kelime uzunluğu : 5,062
+0. -- ISIM_KOK   Oran : %75,000 Toplam: %75,000
+1. -- ISIM_KOK+ISIM_YONELME_E   Oran : %12,500 Toplam: %87,500
+2. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_YONELME_E   Oran : %6,250 Toplam: %93,750
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %93,750
+
+26. <teknik> Kullanım : 15 Oran : %0,656 Ortalama kelime uzunluğu : 5,600
+0. -- ISIM_KOK   Oran : %93,333 Toplam: %93,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %93,333
+
+27. <ilgi> Kullanım : 15 Oran : %0,656 Ortalama kelime uzunluğu : 5,667
+0. -- ISIM_KOK+ISIM_BULUNMA_LI   Oran : %66,667 Toplam: %66,667
+1. -- ISIM_KOK+ISIM_SAHIPLIK_SEN_IN   Oran : %13,333 Toplam: %80,000
+2. -- ISIM_KOK+ISIM_BULUNMA_LI+ISIM_TANIMLAMA_DIR   Oran : %6,667 Toplam: %86,667
+3. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %6,667 Toplam: %93,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %93,333
+
+28. <teknolojik> Kullanım : 15 Oran : %0,656 Ortalama kelime uzunluğu : 9,333
+0. -- ISIM_KOK   Oran : %93,333 Toplam: %93,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %93,333
+
+29. <zer> Kullanım : 15 Oran : %0,656 Ortalama kelime uzunluğu : 6,267
+0. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_KALMA_DE   Oran : %40,000 Toplam: %40,000
+1. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_YONELME_E   Oran : %33,333 Toplam: %73,333
+2. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_KALMA_DE+ISIM_BULUNMA_KI   Oran : %13,333 Toplam: %86,667
+3. -- ISIM_KOK+ISIM_YONELME_E   Oran : %6,667 Toplam: %93,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %93,333
+
+30. <iyi> Kullanım : 14 Oran : %0,613 Ortalama kelime uzunluğu : 2,786
+0. -- ISIM_KOK   Oran : %92,857 Toplam: %92,857
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %92,857
+
+31. <piyasa> Kullanım : 14 Oran : %0,613 Ortalama kelime uzunluğu : 7,357
+0. -- ISIM_KOK+ISIM_YONELME_E   Oran : %57,143 Toplam: %57,143
+1. -- ISIM_KOK   Oran : %14,286 Toplam: %71,429
+2. -- ISIM_KOK+ISIM_KALMA_DE+ISIM_BULUNMA_KI   Oran : %7,143 Toplam: %78,571
+3. -- ISIM_KOK+ISIM_KALMA_DE   Oran : %7,143 Toplam: %85,714
+4. -- ISIM_KOK+ISIM_CIKMA_DEN   Oran : %7,143 Toplam: %92,857
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %92,857
+
+32. <ev> Kullanım : 13 Oran : %0,569 Ortalama kelime uzunluğu : 1,846
+0. -- ISIM_KOK   Oran : %92,308 Toplam: %92,308
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %92,308
+
+33. <grafik> Kullanım : 13 Oran : %0,569 Ortalama kelime uzunluğu : 5,538
+0. -- ISIM_KOK   Oran : %92,308 Toplam: %92,308
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %92,308
+
+34. <ayn> Kullanım : 13 Oran : %0,569 Ortalama kelime uzunluğu : 3,385
+0. -- ISIM_KOK   Oran : %61,538 Toplam: %61,538
+1. -- ISIM_KOK+ISIM_KALMA_DE   Oran : %30,769 Toplam: %92,308
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %92,308
+
+35. <zaman> Kullanım : 12 Oran : %0,525 Ortalama kelime uzunluğu : 5,583
+0. -- ZAMAN_KOK   Oran : %50,000 Toplam: %50,000
+1. -- ZAMAN_KOK+ISIM_KALMA_DE   Oran : %33,333 Toplam: %83,333
+2. -- ZAMAN_KOK+ISIM_KALMA_DE+ISIM_BULUNMA_KI   Oran : %8,333 Toplam: %91,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %91,667
+
+36. <kalite> Kullanım : 12 Oran : %0,525 Ortalama kelime uzunluğu : 7,417
+0. -- ISIM_KOK   Oran : %25,000 Toplam: %25,000
+1. -- ISIM_KOK+ISIM_BULUNMA_LI   Oran : %16,667 Toplam: %41,667
+2. -- ISIM_KOK+ISIM_SAHIPLIK_O_I+ISIM_BELIRTME_I   Oran : %16,667 Toplam: %58,333
+3. -- ISIM_KOK+ISIM_YOKLUK_SIZ   Oran : %8,333 Toplam: %66,667
+4. -- ISIM_KOK+ISIM_KALMA_DE+ISIM_BULUNMA_KI   Oran : %8,333 Toplam: %75,000
+5. -- ISIM_KOK+ISIM_BELIRTME_I   Oran : %8,333 Toplam: %83,333
+6. -- ISIM_KOK+ISIM_YONELME_E   Oran : %8,333 Toplam: %91,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %91,667
+
+37. <ortay> Kullanım : 11 Oran : %0,481 Ortalama kelime uzunluğu : 5,455
+0. -- ISIM_KOK+ISIM_YONELME_E   Oran : %90,909 Toplam: %90,909
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %90,909
+
+38. <ne> Kullanım : 11 Oran : %0,481 Ortalama kelime uzunluğu : 2,727
+0. -- ISIM_KOK   Oran : %63,636 Toplam: %63,636
+1. -- ISIM_KOK+ISIM_COGUL_LER   Oran : %18,182 Toplam: %81,818
+2. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_BELIRTME_I   Oran : %9,091 Toplam: %90,909
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %90,909
+
+39. <sorun> Kullanım : 10 Oran : %0,438 Ortalama kelime uzunluğu : 5,400
+0. -- ISIM_KOK   Oran : %60,000 Toplam: %60,000
+1. -- ISIM_KOK+ISIM_COGUL_LER   Oran : %30,000 Toplam: %90,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %90,000
+
+40. <mevcut> Kullanım : 10 Oran : %0,438 Ortalama kelime uzunluğu : 5,400
+0. -- ISIM_KOK   Oran : %90,000 Toplam: %90,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %90,000
+
+41. <da> Kullanım : 10 Oran : %0,438 Ortalama kelime uzunluğu : 1,800
+0. -- ISIM_KOK   Oran : %90,000 Toplam: %90,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %90,000
+
+42. <dk> Kullanım : 10 Oran : %0,438 Ortalama kelime uzunluğu : 1,800
+0. -- ISIM_KOK   Oran : %90,000 Toplam: %90,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %90,000
+
+43. <pazar> Kullanım : 10 Oran : %0,438 Ortalama kelime uzunluğu : 4,600
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+1. -- OZEL_KOK   Oran : %30,000 Toplam: %80,000
+2. -- ISIM_KOK+ISIM_YONELME_E   Oran : %10,000 Toplam: %90,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %90,000
+
+44. <karar> Kullanım : 10 Oran : %0,438 Ortalama kelime uzunluğu : 4,500
+0. -- FIIL_KOK   Oran : %90,000 Toplam: %90,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %90,000
+
+45. <ilet> Kullanım : 10 Oran : %0,438 Ortalama kelime uzunluğu : 6,400
+0. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME   Oran : %50,000 Toplam: %50,000
+1. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME+FIIL_ISTEK_E   Oran : %10,000 Toplam: %60,000
+2. -- FIIL_KOK+FIIL_DONUSUM_ME+IMEK_HIKAYE_DI   Oran : %10,000 Toplam: %70,000
+3. -- FIIL_KOK+FIIL_GECMISZAMAN_DI   Oran : %10,000 Toplam: %80,000
+4. -- FIIL_KOK+FIIL_DONUSUM_ME+ISIM_ILGI_CI+ISIM_DURUM_LIK   Oran : %10,000 Toplam: %90,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %90,000
+
+46. <konu> Kullanım : 10 Oran : %0,438 Ortalama kelime uzunluğu : 7,800
+0. -- ISIM_KOK+ISIM_TAMLAMA_I+ISIM_KALMA_DE   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_KALMA_DE   Oran : %10,000 Toplam: %60,000
+2. -- ISIM_KOK+ISIM_TAMLAMA_I+IMEK_HIKAYE_DI   Oran : %10,000 Toplam: %70,000
+3. -- ISIM_KOK+ISIM_COGUL_LER   Oran : %10,000 Toplam: %80,000
+4. -- ISIM_KOK+ISIM_TAMLAMA_I+ISIM_YONELME_E   Oran : %10,000 Toplam: %90,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %90,000
+
+47. <sadece> Kullanım : 10 Oran : %0,438 Ortalama kelime uzunluğu : 5,400
+0. -- ISIM_KOK   Oran : %90,000 Toplam: %90,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %90,000
+
+48. <iki> Kullanım : 10 Oran : %0,438 Ortalama kelime uzunluğu : 3,200
+0. -- SAYI_KOK   Oran : %70,000 Toplam: %70,000
+1. -- SAYI_KOK+SAYI_SIRA_INCI   Oran : %10,000 Toplam: %80,000
+2. -- SAYI_KOK+ISIM_SAHIPLIK_O_I   Oran : %10,000 Toplam: %90,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %90,000
+
+49. <ekip> Kullanım : 9 Oran : %0,394 Ortalama kelime uzunluğu : 5,222
+0. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %55,556 Toplam: %55,556
+1. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_KALMA_DE   Oran : %11,111 Toplam: %66,667
+2. -- ISIM_KOK+ISIM_TAMLAMA_I+ISIM_TAMLAMA_IN   Oran : %11,111 Toplam: %77,778
+3. -- ISIM_KOK+ISIM_TAMLAMA_IN   Oran : %11,111 Toplam: %88,889
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %88,889
+
+50. <o> Kullanım : 9 Oran : %0,394 Ortalama kelime uzunluğu : 0,889
+0. -- ZAMIR_KOK   Oran : %88,889 Toplam: %88,889
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %88,889
+
+51. <hata> Kullanım : 9 Oran : %0,394 Ortalama kelime uzunluğu : 5,556
+0. -- ISIM_KOK+ISIM_COGUL_LER   Oran : %44,444 Toplam: %44,444
+1. -- ISIM_KOK   Oran : %33,333 Toplam: %77,778
+2. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_CIKMA_DEN   Oran : %11,111 Toplam: %88,889
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %88,889
+
+52. <model> Kullanım : 9 Oran : %0,394 Ortalama kelime uzunluğu : 5,556
+0. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %44,444 Toplam: %44,444
+1. -- ISIM_KOK   Oran : %22,222 Toplam: %66,667
+2. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_KALMA_DE   Oran : %11,111 Toplam: %77,778
+3. -- ISIM_KOK+ISIM_BIRLIKTELIK_LE   Oran : %11,111 Toplam: %88,889
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %88,889
+
+53. <yap> Kullanım : 9 Oran : %0,394 Ortalama kelime uzunluğu : 6,889
+0. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME+FIIL_ISTEK_E   Oran : %22,222 Toplam: %22,222
+1. -- FIIL_KOK+FIIL_MASTAR_MEK   Oran : %22,222 Toplam: %44,444
+2. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME   Oran : %11,111 Toplam: %55,556
+3. -- FIIL_KOK+FIIL_YETENEK_EBIL+FIIL_GECMISZAMAN_DI+FIIL_KISI_SIZ   Oran : %11,111 Toplam: %66,667
+4. -- FIIL_KOK+FIIL_GELECEKZAMAN_ECEK+FIIL_KISI_ONLAR   Oran : %11,111 Toplam: %77,778
+5. -- FIIL_KOK+FIIL_YETENEK_EBIL+FIIL_GENISZAMAN_IR   Oran : %11,111 Toplam: %88,889
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %88,889
+
+54. <hem> Kullanım : 9 Oran : %0,394 Ortalama kelime uzunluğu : 2,667
+0. -- ISIM_KOK   Oran : %88,889 Toplam: %88,889
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %88,889
+
+55. <ilk> Kullanım : 9 Oran : %0,394 Ortalama kelime uzunluğu : 2,667
+0. -- ISIM_KOK   Oran : %88,889 Toplam: %88,889
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %88,889
+
+56. <ses> Kullanım : 8 Oran : %0,350 Ortalama kelime uzunluğu : 2,625
+0. -- ISIM_KOK   Oran : %87,500 Toplam: %87,500
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %87,500
+
+57. <kadar> Kullanım : 8 Oran : %0,350 Ortalama kelime uzunluğu : 4,375
+0. -- ZAMAN_KOK   Oran : %87,500 Toplam: %87,500
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %87,500
+
+58. <devre> Kullanım : 8 Oran : %0,350 Ortalama kelime uzunluğu : 5,375
+0. -- ISIM_KOK   Oran : %62,500 Toplam: %62,500
+1. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_TAMLAMA_IN   Oran : %12,500 Toplam: %75,000
+2. -- ISIM_KOK+ISIM_COGUL_LER   Oran : %12,500 Toplam: %87,500
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %87,500
+
+59. <ticari> Kullanım : 8 Oran : %0,350 Ortalama kelime uzunluğu : 5,250
+0. -- ISIM_KOK   Oran : %87,500 Toplam: %87,500
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %87,500
+
+60. <kararla> Kullanım : 8 Oran : %0,350 Ortalama kelime uzunluğu : 7,000
+0. -- FIIL_KOK+FIIL_GENISZAMAN_IR   Oran : %87,500 Toplam: %87,500
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %87,500
+
+61. <kar> Kullanım : 8 Oran : %0,350 Ortalama kelime uzunluğu : 3,375
+0. -- FIIL_KOK   Oran : %62,500 Toplam: %62,500
+1. -- FIIL_KOK+FIIL_MASTAR_MEK   Oran : %25,000 Toplam: %87,500
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %87,500
+
+62. <proje> Kullanım : 8 Oran : %0,350 Ortalama kelime uzunluğu : 6,625
+0. -- ISIM_KOK   Oran : %25,000 Toplam: %25,000
+1. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_TAMLAMA_IN+ISIM_YONELME_E   Oran : %12,500 Toplam: %37,500
+2. -- ISIM_KOK+ISIM_COGUL_LER   Oran : %12,500 Toplam: %50,000
+3. -- ISIM_KOK+ISIM_TAMLAMA_IN   Oran : %12,500 Toplam: %62,500
+4. -- ISIM_KOK+ISIM_SAHIPLIK_O_I+ISIM_BELIRTME_I   Oran : %12,500 Toplam: %75,000
+5. -- ISIM_KOK+ISIM_YONELME_E   Oran : %12,500 Toplam: %87,500
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %87,500
+
+63. <her> Kullanım : 8 Oran : %0,350 Ortalama kelime uzunluğu : 2,625
+0. -- ISIM_KOK   Oran : %87,500 Toplam: %87,500
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %87,500
+
+64. <temel> Kullanım : 8 Oran : %0,350 Ortalama kelime uzunluğu : 5,250
+0. -- ISIM_KOK   Oran : %62,500 Toplam: %62,500
+1. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_BELIRTME_I   Oran : %12,500 Toplam: %75,000
+2. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_KALMA_DE   Oran : %12,500 Toplam: %87,500
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %87,500
+
+65. <ver> Kullanım : 8 Oran : %0,350 Ortalama kelime uzunluğu : 5,875
+0. -- FIIL_KOK+FIIL_GECMISZAMAN_DI   Oran : %25,000 Toplam: %25,000
+1. -- FIIL_KOK+FIIL_DONUSUM_ME+ISIM_SAHIPLIK_O_I   Oran : %12,500 Toplam: %37,500
+2. -- FIIL_KOK+FIIL_EDILGEN_IL+FIIL_YETENEK_EBIL+FIIL_GENISZAMAN_IR   Oran : %12,500 Toplam: %50,000
+3. -- FIIL_KOK+FIIL_GECMISZAMAN_DI+FIIL_KISI_ONLAR   Oran : %12,500 Toplam: %62,500
+4. -- FIIL_KOK+FIIL_MASTAR_MEK   Oran : %12,500 Toplam: %75,000
+5. -- FIIL_KOK+FIIL_IMSI_IP   Oran : %12,500 Toplam: %87,500
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %87,500
+
+66. <sat> Kullanım : 8 Oran : %0,350 Ortalama kelime uzunluğu : 3,875
+0. -- FIIL_KOK   Oran : %37,500 Toplam: %37,500
+1. -- FIIL_KOK+FIIL_DONUSUM_EN   Oran : %25,000 Toplam: %62,500
+2. -- FIIL_KOK+FIIL_MASTAR_MEK   Oran : %25,000 Toplam: %87,500
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %87,500
+
+67. <hedef> Kullanım : 7 Oran : %0,306 Ortalama kelime uzunluğu : 7,429
+0. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_BELIRTME_I   Oran : %28,571 Toplam: %28,571
+1. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %14,286 Toplam: %42,857
+2. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_SAHIPLIK_BIZ_IMIZ   Oran : %14,286 Toplam: %57,143
+3. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_TAMLAMA_IN+ISIM_BELIRTME_I   Oran : %14,286 Toplam: %71,429
+4. -- ISIM_KOK   Oran : %14,286 Toplam: %85,714
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %85,714
+
+68. <birlikte> Kullanım : 7 Oran : %0,306 Ortalama kelime uzunluğu : 6,857
+0. -- ISIM_KOK   Oran : %85,714 Toplam: %85,714
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %85,714
+
+69. <ekli> Kullanım : 7 Oran : %0,306 Ortalama kelime uzunluğu : 6,429
+0. -- ISIM_KOK+ISIM_SAHIPLIK_SEN_IN+ISIM_KALMA_DE   Oran : %57,143 Toplam: %57,143
+1. -- ISIM_KOK+ISIM_SAHIPLIK_SEN_IN+ISIM_KALMA_DE+IMEK_HIKAYE_DI   Oran : %14,286 Toplam: %71,429
+2. -- ISIM_KOK+ISIM_BIRLIKTELIK_LE   Oran : %14,286 Toplam: %85,714
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %85,714
+
+70. <ek> Kullanım : 7 Oran : %0,306 Ortalama kelime uzunluğu : 5,429
+0. -- FIIL_KOK+FIIL_GECMISZAMAN_DI   Oran : %28,571 Toplam: %28,571
+1. -- FIIL_KOK+FIIL_SUREKLILIK_EREK   Oran : %28,571 Toplam: %57,143
+2. -- FIIL_KOK+FIIL_DONUSUM_ME+ISIM_SAHIPLIK_O_I   Oran : %14,286 Toplam: %71,429
+3. -- FIIL_KOK+FIIL_EDILGEN_IL+FIIL_YETENEK_EBIL+FIIL_DONUSUM_ME+ISIM_SAHIPLIK_O_I   Oran : %14,286 Toplam: %85,714
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %85,714
+
+71. <iste> Kullanım : 7 Oran : %0,306 Ortalama kelime uzunluğu : 6,571
+0. -- FIIL_KOK+FIIL_EDILGENSESLI_N+FIIL_DONUSUM_EN   Oran : %42,857 Toplam: %42,857
+1. -- FIIL_KOK+FIIL_DONUSUM_EN   Oran : %28,571 Toplam: %71,429
+2. -- FIIL_KOK+FIIL_BELIRTME_DIK+ISIM_COGUL_LER+ISIM_BELIRTME_I   Oran : %14,286 Toplam: %85,714
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %85,714
+
+72. <durum> Kullanım : 7 Oran : %0,306 Ortalama kelime uzunluğu : 5,143
+0. -- ISIM_KOK   Oran : %57,143 Toplam: %57,143
+1. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %14,286 Toplam: %71,429
+2. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_KALMA_DE   Oran : %14,286 Toplam: %85,714
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %85,714
+
+73. <oyun> Kullanım : 7 Oran : %0,306 Ortalama kelime uzunluğu : 4,429
+0. -- ISIM_KOK   Oran : %42,857 Toplam: %42,857
+1. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_BELIRTME_I   Oran : %14,286 Toplam: %57,143
+2. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %14,286 Toplam: %71,429
+3. -- ISIM_KOK+ISIM_COGUL_LER   Oran : %14,286 Toplam: %85,714
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %85,714
+
+74. <ara> Kullanım : 7 Oran : %0,306 Ortalama kelime uzunluğu : 4,286
+0. -- ISIM_KOK+ISIM_KALMA_DE   Oran : %57,143 Toplam: %57,143
+1. -- FIIL_KOK+FIIL_YETERSIZLIK_E   Oran : %28,571 Toplam: %85,714
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %85,714
+
+75. <sebep> Kullanım : 7 Oran : %0,306 Ortalama kelime uzunluğu : 6,000
+0. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %42,857 Toplam: %42,857
+1. -- ISIM_KOK+ISIM_TAMLAMA_I+ISIM_BIRLIKTELIK_LE   Oran : %14,286 Toplam: %57,143
+2. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_BIRLIKTELIK_LE   Oran : %14,286 Toplam: %71,429
+3. -- ISIM_KOK   Oran : %14,286 Toplam: %85,714
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %85,714
+
+76. <kullan> Kullanım : 7 Oran : %0,306 Ortalama kelime uzunluğu : 8,286
+0. -- FIIL_KOK+FIIL_GELECEKZAMAN_ECEK   Oran : %57,143 Toplam: %57,143
+1. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME+FIIL_ISTEK_E   Oran : %14,286 Toplam: %71,429
+2. -- FIIL_KOK+FIIL_DONUSUM_EN   Oran : %14,286 Toplam: %85,714
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %85,714
+
+77. <gel> Kullanım : 7 Oran : %0,306 Ortalama kelime uzunluğu : 6,714
+0. -- FIIL_KOK+FIIL_DONUSUM_IM+ISIM_BELIRTME_I   Oran : %28,571 Toplam: %28,571
+1. -- FIIL_KOK+FIIL_DONUSUM_ME+ISIM_SAHIPLIK_O_I+ISIM_YONELME_E   Oran : %14,286 Toplam: %42,857
+2. -- FIIL_KOK+FIIL_SUREKLILIK_EREK   Oran : %14,286 Toplam: %57,143
+3. -- FIIL_KOK+FIIL_DONUSUM_EN+ISIM_SAHIPLIK_ONLAR_LERI   Oran : %14,286 Toplam: %71,429
+4. -- FIIL_KOK+FIIL_DONUSUM_ME+ISIM_SAHIPLIK_O_I+ISIM_KALMA_DE   Oran : %14,286 Toplam: %85,714
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %85,714
+
+78. <tahmin> Kullanım : 7 Oran : %0,306 Ortalama kelime uzunluğu : 5,571
+0. -- ISIM_KOK   Oran : %71,429 Toplam: %71,429
+1. -- ISIM_KOK+ISIM_ILISKILI_SEL   Oran : %14,286 Toplam: %85,714
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %85,714
+
+79. <imkan> Kullanım : 7 Oran : %0,306 Ortalama kelime uzunluğu : 5,714
+0. -- ISIM_KOK   Oran : %57,143 Toplam: %57,143
+1. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_BIRLIKTELIK_LE   Oran : %28,571 Toplam: %85,714
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %85,714
+
+80. <tek> Kullanım : 6 Oran : %0,263 Ortalama kelime uzunluğu : 2,500
+0. -- SAYI_KOK   Oran : %83,333 Toplam: %83,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %83,333
+
+81. <ileri> Kullanım : 6 Oran : %0,263 Ortalama kelime uzunluğu : 4,500
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+1. -- ISIM_KOK+ISIM_KALMA_DE   Oran : %16,667 Toplam: %83,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %83,333
+
+82. <grup> Kullanım : 6 Oran : %0,263 Ortalama kelime uzunluğu : 4,667
+0. -- ISIM_KOK   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_BELIRTME_I   Oran : %16,667 Toplam: %50,000
+2. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %16,667 Toplam: %66,667
+3. -- ISIM_KOK+ISIM_TAMLAMA_I+ISIM_TAMLAMA_IN   Oran : %16,667 Toplam: %83,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %83,333
+
+83. <yine> Kullanım : 6 Oran : %0,263 Ortalama kelime uzunluğu : 3,333
+0. -- ISIM_KOK   Oran : %83,333 Toplam: %83,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %83,333
+
+84. <bit> Kullanım : 6 Oran : %0,263 Ortalama kelime uzunluğu : 2,667
+0. -- FIIL_KOK   Oran : %66,667 Toplam: %66,667
+1. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %16,667 Toplam: %83,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %83,333
+
+85. <gelecek> Kullanım : 6 Oran : %0,263 Ortalama kelime uzunluğu : 8,500
+0. -- ISIM_KOK+ISIM_KALMA_DE+ISIM_BULUNMA_KI   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK+ISIM_KALMA_DE   Oran : %33,333 Toplam: %83,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %83,333
+
+86. <ucuz> Kullanım : 6 Oran : %0,263 Ortalama kelime uzunluğu : 3,667
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+1. -- ISIM_KOK+IMEK_HIKAYE_DI   Oran : %16,667 Toplam: %83,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %83,333
+
+87. <soru> Kullanım : 6 Oran : %0,263 Ortalama kelime uzunluğu : 4,167
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK+ISIM_BIRLIKTELIK_LE   Oran : %16,667 Toplam: %66,667
+2. -- ISIM_KOK+ISIM_YONELME_E   Oran : %16,667 Toplam: %83,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %83,333
+
+88. <basit> Kullanım : 6 Oran : %0,263 Ortalama kelime uzunluğu : 5,000
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK+ISIM_BULUNMA_LIK   Oran : %16,667 Toplam: %66,667
+2. -- ISIM_KOK+IMEK_HIKAYE_DI   Oran : %16,667 Toplam: %83,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %83,333
+
+89. <tahmini> Kullanım : 6 Oran : %0,263 Ortalama kelime uzunluğu : 6,667
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK+ISIM_SAHIPLIK_SEN_IN   Oran : %16,667 Toplam: %66,667
+2. -- ISIM_KOK+ISIM_SAHIPLIK_SEN_IN+ISIM_CIKMA_DEN   Oran : %16,667 Toplam: %83,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %83,333
+
+90. <uygun> Kullanım : 6 Oran : %0,263 Ortalama kelime uzunluğu : 4,167
+0. -- ISIM_KOK   Oran : %83,333 Toplam: %83,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %83,333
+
+91. <apple> Kullanım : 6 Oran : %0,263 Ortalama kelime uzunluğu : 4,167
+0. -- OZEL_KOK   Oran : %83,333 Toplam: %83,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %83,333
+
+92. <bulun> Kullanım : 6 Oran : %0,263 Ortalama kelime uzunluğu : 8,167
+0. -- FIIL_KOK+FIIL_SUREKLILIK_EREK   Oran : %33,333 Toplam: %33,333
+1. -- FIIL_KOK+FIIL_SIMDIKIZAMAN_IYOR+IMEK_HIKAYE_DI   Oran : %16,667 Toplam: %50,000
+2. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME+FIIL_SIMDIKIZAMAN_IYOR+IMEK_HIKAYE_DI   Oran : %16,667 Toplam: %66,667
+3. -- FIIL_KOK+FIIL_MASTAR_MEK   Oran : %16,667 Toplam: %83,333
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %83,333
+
+93. <sahip> Kullanım : 5 Oran : %0,219 Ortalama kelime uzunluğu : 4,200
+0. -- ISIM_KOK   Oran : %60,000 Toplam: %60,000
+1. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %20,000 Toplam: %80,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %80,000
+
+94. <al> Kullanım : 5 Oran : %0,219 Ortalama kelime uzunluğu : 3,800
+0. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME   Oran : %40,000 Toplam: %40,000
+1. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME+FIIL_ISTEK_E   Oran : %20,000 Toplam: %60,000
+2. -- FIIL_KOK+FIIL_MASTAR_MEK   Oran : %20,000 Toplam: %80,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %80,000
+
+95. <i> Kullanım : 5 Oran : %0,219 Ortalama kelime uzunluğu : 2,000
+0. -- IMEK_KOK+IMEK_ZAMAN_KEN   Oran : %40,000 Toplam: %40,000
+1. -- IMEK_KOK   Oran : %40,000 Toplam: %80,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %80,000
+
+96. <k> Kullanım : 5 Oran : %0,219 Ortalama kelime uzunluğu : 0,800
+0. -- ISIM_KOK   Oran : %80,000 Toplam: %80,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %80,000
+
+97. <ben> Kullanım : 5 Oran : %0,219 Ortalama kelime uzunluğu : 3,200
+0. -- ZAMIR_KOK+ISIM_YONELME_E   Oran : %80,000 Toplam: %80,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %80,000
+
+98. <biri> Kullanım : 5 Oran : %0,219 Ortalama kelime uzunluğu : 3,800
+0. -- ISIM_KOK   Oran : %60,000 Toplam: %60,000
+1. -- ISIM_KOK+ISIM_TANIMLAMA_DIR   Oran : %20,000 Toplam: %80,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %80,000
+
+99. <pazarla> Kullanım : 5 Oran : %0,219 Ortalama kelime uzunluğu : 8,200
+0. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME   Oran : %60,000 Toplam: %60,000
+1. -- FIIL_KOK+FIIL_EDILGENSESLI_N+FIIL_YETENEK_EBIL+FIIL_DONUSUM_EN   Oran : %20,000 Toplam: %80,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %80,000
+
+100. <disk> Kullanım : 5 Oran : %0,219 Ortalama kelime uzunluğu : 3,200
+0. -- ISIM_KOK   Oran : %80,000 Toplam: %80,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %80,000
+
+101. <maliyet> Kullanım : 5 Oran : %0,219 Ortalama kelime uzunluğu : 6,400
+0. -- ISIM_KOK   Oran : %40,000 Toplam: %40,000
+1. -- ISIM_KOK+IMEK_HIKAYE_DI   Oran : %20,000 Toplam: %60,000
+2. -- ISIM_KOK+ISIM_BIRLIKTELIK_LE   Oran : %20,000 Toplam: %80,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %80,000
+
+102. <patron> Kullanım : 5 Oran : %0,219 Ortalama kelime uzunluğu : 6,000
+0. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %60,000 Toplam: %60,000
+1. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_YONELME_E   Oran : %20,000 Toplam: %80,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %80,000
+
+103. <evrim> Kullanım : 5 Oran : %0,219 Ortalama kelime uzunluğu : 6,400
+0. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_KALMA_DE   Oran : %40,000 Toplam: %40,000
+1. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_BELIRTME_I   Oran : %20,000 Toplam: %60,000
+2. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %20,000 Toplam: %80,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %80,000
+
+104. <mutlaka> Kullanım : 5 Oran : %0,219 Ortalama kelime uzunluğu : 5,600
+0. -- ISIM_KOK   Oran : %80,000 Toplam: %80,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %80,000
+
+105. <kendi> Kullanım : 5 Oran : %0,219 Ortalama kelime uzunluğu : 5,200
+0. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %40,000 Toplam: %40,000
+1. -- ISIM_KOK+ISIM_SAHIPLIK_SEN_IN+ISIM_YONELME_E   Oran : %20,000 Toplam: %60,000
+2. -- ISIM_KOK   Oran : %20,000 Toplam: %80,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %80,000
+
+106. <para> Kullanım : 5 Oran : %0,219 Ortalama kelime uzunluğu : 3,200
+0. -- ISIM_KOK   Oran : %80,000 Toplam: %80,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %80,000
+
+107. <zor> Kullanım : 5 Oran : %0,219 Ortalama kelime uzunluğu : 5,000
+0. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_KALMA_DE   Oran : %40,000 Toplam: %40,000
+1. -- ISIM_KOK+ISIM_BULUNMA_LI   Oran : %20,000 Toplam: %60,000
+2. -- ISIM_KOK+ISIM_TANIMLAMA_DIR   Oran : %20,000 Toplam: %80,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %80,000
+
+108. <agresif> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 5,250
+0. -- ISIM_KOK   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+109. <an> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 1,500
+0. -- FIIL_KOK   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+110. <az> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 2,250
+0. -- FIIL_KOK   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK+ISIM_COGUL_LER   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+111. <fiyatla> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 5,500
+0. -- FIIL_KOK   Oran : %50,000 Toplam: %50,000
+1. -- FIIL_KOK+FIIL_GENISZAMAN_IR   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+112. <m> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 0,750
+0. -- ISIM_KOK   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+113. <ise> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 2,250
+0. -- EDAT_KOK   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+114. <neden> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 4,000
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+115. <personel> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 6,750
+0. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+116. <entegre> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 5,250
+0. -- ISIM_KOK   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+117. <zamanla> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 6,750
+0. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+118. <boyun> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 5,250
+0. -- ISIM_KOK+ISIM_GIBI_CE   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+119. <uygula> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 7,000
+0. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME   Oran : %50,000 Toplam: %50,000
+1. -- FIIL_KOK+FIIL_DONUSUM_ME+ISIM_KALMA_DE+ISIM_BULUNMA_KI   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+120. <fazla> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 3,750
+0. -- ISIM_KOK   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+121. <ait> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 2,750
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK+IMEK_HIKAYE_DI   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+122. <buna> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 3,000
+0. -- FIIL_KOK   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+123. <incele> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 7,500
+0. -- FIIL_KOK+FIIL_SUREKLILIK_EREK   Oran : %25,000 Toplam: %25,000
+1. -- FIIL_KOK+FIIL_GECMISZAMAN_DI+FIIL_KISI_BIZ   Oran : %25,000 Toplam: %50,000
+2. -- FIIL_KOK+FIIL_GENISZAMAN_IR+IMEK_ZAMAN_KEN   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+124. <fuar> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 5,000
+0. -- ISIM_KOK+ISIM_CIKMA_DEN   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK+ISIM_KALMA_DE   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+125. <vaka> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 3,000
+0. -- ISIM_KOK   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+126. <son> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 3,500
+0. -- SAYI_KOK+ISIM_TAMLAMA_IN+ISIM_KALMA_DE   Oran : %25,000 Toplam: %25,000
+1. -- SAYI_KOK   Oran : %25,000 Toplam: %50,000
+2. -- SAYI_KOK+ISIM_YONELME_E   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+127. <liste> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 7,750
+0. -- ISIM_KOK+ISIM_TAMLAMA_I+ISIM_BIRLIKTELIK_LE   Oran : %25,000 Toplam: %25,000
+1. -- ISIM_KOK+ISIM_SAHIPLIK_BIZ_IMIZ+ISIM_KALMA_DE+ISIM_BULUNMA_KI   Oran : %25,000 Toplam: %50,000
+2. -- ISIM_KOK+ISIM_SAHIPLIK_O_I+ISIM_BELIRTME_I   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+128. <veya> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 3,000
+0. -- ISIM_KOK   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+129. <kriter> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 8,500
+0. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_SAHIPLIK_O_I+ISIM_TAMLAMA_IN   Oran : %25,000 Toplam: %25,000
+1. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_TAMLAMA_IN+ISIM_YONELME_E   Oran : %25,000 Toplam: %50,000
+2. -- ISIM_KOK+ISIM_COGUL_LER   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+130. <cevap> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 3,750
+0. -- ISIM_KOK   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+131. <genel> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 5,750
+0. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_KALMA_DE   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+132. <yetenek> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 9,250
+0. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_SAHIPLIK_O_I+ISIM_TAMLAMA_IN   Oran : %25,000 Toplam: %25,000
+1. -- ISIM_KOK+ISIM_CIKMA_DEN   Oran : %25,000 Toplam: %50,000
+2. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_TAMLAMA_IN+ISIM_BELIRTME_I   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+133. <klavye> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 7,250
+0. -- ISIM_KOK+ISIM_TAMLAMA_I+ISIM_BIRLIKTELIK_LE   Oran : %25,000 Toplam: %25,000
+1. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %25,000 Toplam: %50,000
+2. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_BELIRTME_I   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+134. <izle> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 6,250
+0. -- FIIL_KOK+FIIL_SIMDIKIZAMAN_IYOR+IMEK_HIKAYE_DI   Oran : %50,000 Toplam: %50,000
+1. -- FIIL_KOK+FIIL_EDILGENSESLI_N+FIIL_DONUSUM_EN   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+135. <nihayet> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 5,250
+0. -- OZEL_KOK   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+136. <tekrar> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 4,500
+0. -- ISIM_KOK   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+137. <gerekli> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 6,750
+0. -- ISIM_KOK+IMEK_HIKAYE_DI   Oran : %25,000 Toplam: %25,000
+1. -- ISIM_KOK+ISIM_TANIMLAMA_DIR   Oran : %25,000 Toplam: %50,000
+2. -- ISIM_KOK   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+138. <garanti> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 5,750
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK+ISIM_YONELME_E   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+139. <sonuç> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 6,750
+0. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_KALMA_DE   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+140. <video> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 3,750
+0. -- ISIM_KOK   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+141. <vadet> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 4,750
+0. -- FIIL_KOK+FIIL_YETERSIZLIK_E   Oran : %50,000 Toplam: %50,000
+1. -- FIIL_KOK+FIIL_DONUSUM_EN   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+142. <takdir> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 5,500
+0. -- ISIM_KOK+ISIM_KALMA_DE   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+143. <tam> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 2,250
+0. -- ISIM_KOK   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+144. <orta> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 3,000
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+1. -- OZEL_KOK   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+145. <japon> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 3,750
+0. -- OZEL_KOK   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+146. <engel> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 4,750
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_YONELME_E   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+147. <uzun> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 3,000
+0. -- ISIM_KOK   Oran : %75,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+148. <kaybet> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 8,750
+0. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME+FIIL_ISTEK_E   Oran : %50,000 Toplam: %50,000
+1. -- FIIL_KOK+FIIL_EDILGEN_IL+FIIL_GELECEKZAMAN_ECEK+ISIM_TANIMLAMA_DIR   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+149. <isim> Kullanım : 4 Oran : %0,175 Ortalama kelime uzunluğu : 4,000
+0. -- ISIM_KOK+ISIM_BULUNMA_LI   Oran : %50,000 Toplam: %50,000
+1. -- ISIM_KOK   Oran : %25,000 Toplam: %75,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %75,000
+
+150. <uyum> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 2,667
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+151. <bak> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 4,000
+0. -- FIIL_KOK+FIIL_MASTAR_MEK+ISIM_BIRLIKTELIK_LE   Oran : %33,333 Toplam: %33,333
+1. -- FIIL_KOK+FIIL_YETERSIZLIK_E   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+152. <bellek> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 4,000
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+153. <yol> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 2,333
+0. -- FIIL_KOK   Oran : %33,333 Toplam: %33,333
+1. -- FIIL_KOK+FIIL_YETERSIZLIK_E   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+154. <baz> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 3,000
+0. -- ISIM_KOK+ISIM_COGUL_LER   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+155. <fark> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 3,333
+0. -- ISIM_KOK+ISIM_BIRLIKTELIK_LE   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+156. <denge> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 4,000
+0. -- ISIM_KOK+ISIM_BELIRTME_I   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+157. <hala> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 2,667
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+158. <doru> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 2,667
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+159. <sistem> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 5,333
+0. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_KALMA_DE   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+160. <ak> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 1,333
+0. -- FIIL_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+161. <bile> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 2,667
+0. -- FIIL_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+162. <yerin> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 4,000
+0. -- FIIL_KOK+FIIL_YETERSIZLIK_E   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+163. <kelime> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 4,000
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+164. <gibi> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 2,667
+0. -- EDAT_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+165. <ele> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 2,000
+0. -- FIIL_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+166. <pay> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 2,000
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+167. <ey> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 1,333
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+168. <kayna> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 3,333
+0. -- FIIL_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+169. <ocak> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 2,667
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+170. <silikon> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 5,667
+0. -- ISIM_KOK+ISIM_CIKMA_DEN   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+171. <hayati> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 4,000
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+172. <miktar> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 4,000
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+173. <biz> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 2,333
+0. -- ZAMIR_KOK   Oran : %33,333 Toplam: %33,333
+1. -- ZAMIR_KOK+ISIM_YONELME_E   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+174. <kinci> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 3,333
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+175. <bilgi> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 3,333
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+176. <montaj> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 4,000
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+177. <mal> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 2,000
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+178. <nesil> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 3,333
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+179. <ibaret> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 5,000
+0. -- ISIM_KOK+ISIM_TANIMLAMA_DIR   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+180. <alan> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 2,667
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+181. <konum> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 4,000
+0. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK+ISIM_YONELME_E   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+182. <ekonomik> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 5,333
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+183. <yenile> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 5,333
+0. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+184. <oyuncak> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 4,667
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+185. <sun> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 3,333
+0. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME   Oran : %33,333 Toplam: %33,333
+1. -- FIIL_KOK+FIIL_GENISZAMAN_IR   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+186. <tasarla> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 7,667
+0. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME+FIIL_ISTEK_E   Oran : %33,333 Toplam: %33,333
+1. -- FIIL_KOK+FIIL_SUREKLILIK_EREK   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+187. <etki> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 4,667
+0. -- FIIL_KOK+FIIL_DONUSUM_ILI   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_BELIRTME_I   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+188. <onay> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 2,667
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+189. <etkile> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 5,667
+0. -- FIIL_KOK+FIIL_DONUSUM_EN   Oran : %33,333 Toplam: %33,333
+1. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+190. <bul> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 3,667
+0. -- FIIL_KOK+FIIL_MASTAR_MEK   Oran : %33,333 Toplam: %33,333
+1. -- FIIL_KOK+FIIL_IMSI_IP   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+191. <kapasite> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 7,000
+0. -- ISIM_KOK+ISIM_TAMLAMA_I+ISIM_TAMLAMA_IN   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+192. <devam> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 3,333
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+193. <belirle> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 8,000
+0. -- FIIL_KOK+FIIL_EDILGENSESLI_N+FIIL_DONUSUM_ME+ISIM_SAHIPLIK_O_I   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+194. <herhangi> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 5,333
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+195. <fikir> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 6,000
+0. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_BELIRTME_I   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+196. <dikkat> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 4,333
+0. -- ISIM_KOK+ISIM_YONELME_E   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+197. <mesela> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 4,000
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+198. <getir> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 6,000
+0. -- FIIL_KOK+FIIL_OLUMSUZLUK_ME+FIIL_ISTEK_E   Oran : %33,333 Toplam: %33,333
+1. -- FIIL_KOK+FIIL_SUREKLILIK_EREK   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+199. <elde> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 2,667
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+200. <lider> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 3,667
+0. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+201. <senaryo> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 6,667
+0. -- ISIM_KOK+ISIM_COGUL_LER   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK+ISIM_TAMLAMA_IN   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+202. <faaliyet> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 7,667
+0. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_BELIRTME_I   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK+ISIM_COGUL_LER+ISIM_BELIRTME_I   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+203. <belirt> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 6,667
+0. -- FIIL_KOK+FIIL_ISTEK_E+FIIL_KISI_BIZ   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+204. <anlam> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 4,000
+0. -- ISIM_KOK+ISIM_KALMA_DE   Oran : %33,333 Toplam: %33,333
+1. -- ISIM_KOK   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+205. <stratejik> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 6,000
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+206. <gir> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 5,667
+0. -- FIIL_KOK+FIIL_SUREKLILIK_EREK   Oran : %33,333 Toplam: %33,333
+1. -- FIIL_KOK+FIIL_DONUSUM_ME+ISIM_SAHIPLIK_O_I+ISIM_BIRLIKTELIK_LE   Oran : %33,333 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+207. <binlerce> Kullanım : 3 Oran : %0,131 Ortalama kelime uzunluğu : 5,333
+0. -- ISIM_KOK   Oran : %66,667 Toplam: %66,667
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %66,667
+
+208. <hale> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,000
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+209. <finansal> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 4,000
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+210. <makul> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,500
+0. -- OZEL_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+211. <yeterince> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 4,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+212. <hikaye> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 4,000
+0. -- ISIM_KOK+ISIM_TAMLAMA_I   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+213. <izafi> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+214. <periyodik> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 4,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+215. <yok> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,500
+0. -- ISIM_KOK+IMEK_HIKAYE_DI   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+216. <dahili> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 4,500
+0. -- ISIM_KOK+ISIM_SAHIPLIK_SEN_IN+ISIM_KALMA_DE   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+217. <herkes> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 4,000
+0. -- ZAMIR_KOK+ISIM_TAMLAMA_IN   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+218. <ten> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 1,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+219. <noktala> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 4,000
+0. -- FIIL_KOK+FIIL_GENISZAMAN_IR   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+220. <ram> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 1,500
+0. -- OZEL_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+221. <finansman> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 5,000
+0. -- ISIM_KOK+ISIM_YONELME_E   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+222. <firma> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+223. <aksi> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,000
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+224. <tekil> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+225. <milyon> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 4,000
+0. -- SAYI_KOK+ISIM_KALMA_DE   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+226. <be> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 1,000
+0. -- UNLEM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+227. <monte> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+228. <kur> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 3,500
+0. -- FIIL_KOK+FIIL_GELECEKZAMAN_ECEK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+229. <hafta> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+230. <salt> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,000
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+231. <g> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 0,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+232. <ciddi> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+233. <tipik> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+234. <l> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 0,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+235. <ileti> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 3,000
+0. -- ISIM_KOK+ISIM_SAHIPLIK_BEN_IM   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+236. <ekran> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 3,500
+0. -- ISIM_KOK+ISIM_KALMA_DE   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+237. <rahat> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 3,000
+0. -- ISIM_KOK+ISIM_YONELME_E   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+238. <kritik> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 3,000
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+239. <zihni> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 4,000
+0. -- ISIM_KOK+ISIM_TAMLAMA_IN   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+240. <testi> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+241. <derhal> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 3,000
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+242. <dolay> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+243. <kontrol> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 3,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+244. <baba> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,000
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+245. <diz> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 3,000
+0. -- FIIL_KOK+FIIL_GECMISZAMAN_DI+FIIL_KISI_BIZ   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+246. <ada> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,000
+0. -- FIIL_KOK+FIIL_EDILGENSESLI_N   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+247. <ret> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,500
+0. -- ISIM_KOK+IMEK_HIKAYE_DI   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+248. <test> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,000
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+249. <el> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 3,000
+0. -- ISIM_KOK+ISIM_TAMLAMA_IN+ISIM_KALMA_DE   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+250. <bakan> Kullanım : 2 Oran : %0,088 Ortalama kelime uzunluğu : 2,500
+0. -- ISIM_KOK   Oran : %50,000 Toplam: %50,000
+----> Kullanım oranı %0.1'den fazla olan ek zincirlerinin kapsam oranı: %50,000
+
+SAYI_KOK Kullanim : %4,86111
+  BOS_EK  %96,42857  (135)
+  ISIM_YONELME_E  %0,71429  (1)
+  ISIM_SAHIPLIK_O_I  %0,71429  (1)
+  ISIM_KALMA_DE  %0,71429  (1)
+  ISIM_TAMLAMA_IN  %0,71429  (1)
+  SAYI_SIRA_INCI  %0,71429  (1)
+
+FIIL_GELECEKZAMAN_ECEK Kullanim : %0,45139
+  BOS_EK  %76,92308  (10)
+  ISIM_TANIMLAMA_DIR  %15,38462  (2)
+  FIIL_KISI_ONLAR  %7,69231  (1)
+
+ISIM_BELIRTME_I Kullanim : %1,77083
+  BOS_EK  %100,00000  (51)
+
+ISIM_BULUNMA_KI Kullanim : %0,48611
+  BOS_EK  %100,00000  (14)
+
+ZAMAN_KOK Kullanim : %1,63194
+  BOS_EK  %78,72340  (37)
+  ISIM_KALMA_DE  %10,63830  (5)
+  ISIM_CIKMA_DEN  %6,38298  (3)
+  ISIM_KISI_ONLAR_LER  %2,12766  (1)
+  ZAMAN_BELIRTME_KI  %2,12766  (1)
+
+IMEK_HIKAYE_DI Kullanim : %0,76389
+  BOS_EK  %100,00000  (22)
+
+ISIM_KISI_ONLAR_LER Kullanim : %0,03472
+  BOS_EK  %100,00000  (1)
+
+ISIM_BULUNMA_LIK Kullanim : %0,17361
+  BOS_EK  %60,00000  (3)
+  ISIM_COGUL_LER  %20,00000  (1)
+  ISIM_CIKMA_DEN  %20,00000  (1)
+
+FIIL_KISI_BEN Kullanim : %0,03472
+  BOS_EK  %100,00000  (1)
+
+FIIL_YETERSIZLIK_E Kullanim : %0,38194
+  BOS_EK  %72,72727  (8)
+  FIIL_OLUMSUZLUK_ME  %27,27273  (3)
+
+ISIM_TAMLAMA_IN Kullanim : %3,36806
+  BOS_EK  %48,45361  (47)
+  ISIM_KALMA_DE  %25,77320  (25)
+  ISIM_BELIRTME_I  %11,34021  (11)
+  ISIM_YONELME_E  %10,30928  (10)
+  ISIM_BIRLIKTELIK_LE  %2,06186  (2)
+  ISIM_CIKMA_DEN  %2,06186  (2)
+
+FIIL_GENISZAMAN_IR Kullanim : %1,11111
+  BOS_EK  %87,50000  (28)
+  IMEK_ZAMAN_KEN  %6,25000  (2)
+  IMEK_HIKAYE_DI  %3,12500  (1)
+  IMEK_SART_SE  %3,12500  (1)
+
+ISIM_YOKLUK_SIZ Kullanim : %0,03472
+  BOS_EK  %100,00000  (1)
+
+ISIM_TAMLAMA_I Kullanim : %3,26389
+  BOS_EK  %74,46809  (70)
+  ISIM_TAMLAMA_IN  %10,63830  (10)
+  ISIM_KALMA_DE  %5,31915  (5)
+  ISIM_BIRLIKTELIK_LE  %4,25532  (4)
+  ISIM_YONELME_E  %3,19149  (3)
+  IMEK_HIKAYE_DI  %1,06383  (1)
+  ISIM_TANIMLAMA_DIR  %1,06383  (1)
+
+FIIL_ISTEK_E Kullanim : %0,41667
+  BOS_EK  %83,33333  (10)
+  FIIL_KISI_BIZ  %16,66667  (2)
+
+FIIL_EDILGEN_IL Kullanim : %0,24306
+  FIIL_YETENEK_EBIL  %42,85714  (3)
+  FIIL_DONUSUM_ME  %28,57143  (2)
+  FIIL_BELIRTME_DIK  %14,28571  (1)
+  FIIL_GELECEKZAMAN_ECEK  %14,28571  (1)
+
+FIIL_SART_SE Kullanim : %0,10417
+  BOS_EK  %100,00000  (3)
+
+ISIM_KOK Kullanim : %42,98611
+  BOS_EK  %66,80129  (827)
+  ISIM_TAMLAMA_I  %7,59289  (94)
+  ISIM_COGUL_LER  %6,70436  (83)
+  ISIM_TAMLAMA_IN  %4,44265  (55)
+  ISIM_YONELME_E  %3,47334  (43)
+  ISIM_BULUNMA_LI  %2,66559  (33)
+  ISIM_KALMA_DE  %2,34249  (29)
+  ISIM_SAHIPLIK_SEN_IN  %1,29241  (16)
+  ISIM_CIKMA_DEN  %0,88853  (11)
+  ISIM_BIRLIKTELIK_LE  %0,64620  (8)
+  IMEK_HIKAYE_DI  %0,56543  (7)
+  ISIM_SAHIPLIK_O_I  %0,48465  (6)
+  ISIM_TANIMLAMA_DIR  %0,40388  (5)
+  ISIM_BULUNMA_LIK  %0,40388  (5)
+  ISIM_BELIRTME_I  %0,40388  (5)
+  ISIM_GIBI_CE  %0,32310  (4)
+  ISIM_DONUSUM_LE  %0,16155  (2)
+  ISIM_ILISKILI_SEL  %0,16155  (2)
+  ISIM_SAHIPLIK_BEN_IM  %0,08078  (1)
+  ISIM_YOKLUK_SIZ  %0,08078  (1)
+  ISIM_SAHIPLIK_BIZ_IMIZ  %0,08078  (1)
+
+FIIL_DONUSUM_ME Kullanim : %0,55556
+  ISIM_SAHIPLIK_O_I  %62,50000  (10)
+  BOS_EK  %6,25000  (1)
+  ISIM_SAHIPLIK_ONLAR_LERI  %6,25000  (1)
+  ISIM_BULUNMA_LI  %6,25000  (1)
+  ISIM_ILGI_CI  %6,25000  (1)
+  IMEK_HIKAYE_DI  %6,25000  (1)
+  ISIM_KALMA_DE  %6,25000  (1)
+
+FIIL_DONUSUM_ILI Kullanim : %0,06944
+  BOS_EK  %50,00000  (1)
+  ISIM_TANIMLAMA_DIR  %50,00000  (1)
+
+FIIL_BELIRTME_DIK Kullanim : %0,10417
+  ISIM_COGUL_LER  %66,66667  (2)
+  ISIM_CIKMA_DEN  %33,33333  (1)
+
+ISIM_DURUM_LIK Kullanim : %0,03472
+  BOS_EK  %100,00000  (1)
+
+ISIM_YONELME_E Kullanim : %2,43056
+  BOS_EK  %100,00000  (70)
+
+FIIL_OLUMSUZLUK_ME Kullanim : %1,35417
+  BOS_EK  %53,84615  (21)
+  FIIL_ISTEK_E  %25,64103  (10)
+  FIIL_DONUSUM_EN  %5,12821  (2)
+  FIIL_GELECEKZAMAN_ECEK  %5,12821  (2)
+  FIIL_KISI_BEN  %2,56410  (1)
+  FIIL_GECMISZAMAN_DI  %2,56410  (1)
+  FIIL_SIMDIKIZAMAN_IYOR  %2,56410  (1)
+  FIIL_DONUSUM_ILI  %2,56410  (1)
+
+ISIM_BULUNMA_LI Kullanim : %1,18056
+  BOS_EK  %94,11765  (32)
+  ISIM_TANIMLAMA_DIR  %5,88235  (2)
+
+FIIL_KISI_ONLAR Kullanim : %0,13889
+  BOS_EK  %100,00000  (4)
+
+ISIM_COGUL_LER Kullanim : %3,02083
+  BOS_EK  %31,03448  (27)
+  ISIM_TAMLAMA_IN  %24,13793  (21)
+  ISIM_BELIRTME_I  %22,98851  (20)
+  ISIM_YONELME_E  %5,74713  (5)
+  ISIM_SAHIPLIK_O_I  %4,59770  (4)
+  ISIM_BIRLIKTELIK_LE  %4,59770  (4)
+  ISIM_KALMA_DE  %3,44828  (3)
+  ISIM_CIKMA_DEN  %2,29885  (2)
+  ISIM_SAHIPLIK_BIZ_IMIZ  %1,14943  (1)
+
+FIIL_IMSI_IP Kullanim : %0,06944
+  BOS_EK  %100,00000  (2)
+
+EDAT_KOK Kullanim : %0,83333
+  BOS_EK  %100,00000  (24)
+
+FIIL_SUREKLILIK_EREK Kullanim : %1,56250
+  BOS_EK  %100,00000  (45)
+
+FIIL_KISI_BIZ Kullanim : %0,13889
+  BOS_EK  %100,00000  (4)
+
+UNLEM_KOK Kullanim : %0,03472
+  BOS_EK  %100,00000  (1)
+
+FIIL_SIMDIKIZAMAN_IYOR Kullanim : %0,34722
+  IMEK_HIKAYE_DI  %100,00000  (10)
+
+FIIL_EMIR_O_SIN Kullanim : %0,03472
+  BOS_EK  %100,00000  (1)
+
+FIIL_DONUSUM_ECEK Kullanim : %0,03472
+  ISIM_COGUL_LER  %100,00000  (1)
+
+ISIM_KALMA_DE Kullanim : %2,77778
+  BOS_EK  %78,75000  (63)
+  ISIM_BULUNMA_KI  %17,50000  (14)
+  ISIM_TANIMLAMA_DIR  %2,50000  (2)
+  IMEK_HIKAYE_DI  %1,25000  (1)
+
+FIIL_MASTAR_MEK Kullanim : %0,69444
+  BOS_EK  %65,00000  (13)
+  ISIM_BIRLIKTELIK_LE  %20,00000  (4)
+  ISIM_KALMA_DE  %10,00000  (2)
+  IMEK_HIKAYE_DI  %5,00000  (1)
+
+ISIM_SAHIPLIK_BIZ_IMIZ Kullanim : %0,06944
+  BOS_EK  %50,00000  (1)
+  ISIM_KALMA_DE  %50,00000  (1)
+
+BAGLAC_KOK Kullanim : %0,55556
+  BOS_EK  %100,00000  (16)
+
+ISIM_CIKMA_DEN Kullanim : %0,76389
+  BOS_EK  %100,00000  (22)
+
+ISIM_GIBI_CE Kullanim : %0,13889
+  BOS_EK  %100,00000  (4)
+
+FIIL_DONUSUM_IM Kullanim : %0,06944
+  ISIM_BELIRTME_I  %100,00000  (2)
+
+ISIM_SAHIPLIK_O_I Kullanim : %0,72917
+  BOS_EK  %33,33333  (7)
+  ISIM_BELIRTME_I  %33,33333  (7)
+  ISIM_TAMLAMA_IN  %19,04762  (4)
+  ISIM_YONELME_E  %4,76190  (1)
+  ISIM_KALMA_DE  %4,76190  (1)
+  ISIM_BIRLIKTELIK_LE  %4,76190  (1)
+
+ISIM_SAHIPLIK_SEN_IN Kullanim : %0,55556
+  ISIM_KALMA_DE  %43,75000  (7)
+  BOS_EK  %31,25000  (5)
+  ISIM_CIKMA_DEN  %12,50000  (2)
+  ISIM_YONELME_E  %6,25000  (1)
+  ISIM_BELIRTME_I  %6,25000  (1)
+
+FIIL_EDILGENSESLI_N Kullanim : %0,48611
+  BOS_EK  %28,57143  (4)
+  FIIL_DONUSUM_EN  %28,57143  (4)
+  FIIL_YETENEK_EBIL  %14,28571  (2)
+  FIIL_DONUSUM_ME  %14,28571  (2)
+  FIIL_MASTAR_MEK  %7,14286  (1)
+  FIIL_SUREKLILIK_EREK  %7,14286  (1)
+
+IMEK_ZAMAN_KEN Kullanim : %0,13889
+  BOS_EK  %100,00000  (4)
+
+FIIL_DONUSUM_EN Kullanim : %1,31944
+  BOS_EK  %97,36842  (37)
+  ISIM_SAHIPLIK_ONLAR_LERI  %2,63158  (1)
+
+ISIM_SAHIPLIK_ONLAR_LERI Kullanim : %0,06944
+  BOS_EK  %50,00000  (1)
+  ISIM_YONELME_E  %50,00000  (1)
+
+FIIL_YETENEK_EBIL Kullanim : %0,48611
+  FIIL_GENISZAMAN_IR  %57,14286  (8)
+  FIIL_GELECEKZAMAN_ECEK  %14,28571  (2)
+  FIIL_DONUSUM_EN  %7,14286  (1)
+  FIIL_GECMISZAMAN_DI  %7,14286  (1)
+  FIIL_DONUSUM_ECEK  %7,14286  (1)
+  FIIL_DONUSUM_ME  %7,14286  (1)
+
+ISIM_ILISKILI_SEL Kullanim : %0,06944
+  BOS_EK  %100,00000  (2)
+
+FIIL_KOK Kullanim : %11,31944
+  BOS_EK  %23,00613  (75)
+  FIIL_SUREKLILIK_EREK  %13,49693  (44)
+  FIIL_OLUMSUZLUK_ME  %11,04294  (36)
+  FIIL_DONUSUM_EN  %9,20245  (30)
+  FIIL_GENISZAMAN_IR  %6,74847  (22)
+  FIIL_MASTAR_MEK  %5,82822  (19)
+  FIIL_GECMISZAMAN_DI  %5,21472  (17)
+  FIIL_EDILGENSESLI_N  %4,29448  (14)
+  FIIL_YETERSIZLIK_E  %3,37423  (11)
+  FIIL_DONUSUM_ME  %3,06748  (10)
+  FIIL_YETENEK_EBIL  %2,76074  (9)
+  FIIL_SIMDIKIZAMAN_IYOR  %2,45399  (8)
+  FIIL_GELECEKZAMAN_ECEK  %2,45399  (8)
+  FIIL_EDILGEN_IL  %2,14724  (7)
+  FIIL_SART_SE  %0,92025  (3)
+  FIIL_ETTIRGEN_TIR  %0,92025  (3)
+  FIIL_ISTEK_E  %0,61350  (2)
+  FIIL_DONUSUM_IM  %0,61350  (2)
+  FIIL_IMSI_IP  %0,61350  (2)
+  FIIL_BELIRTME_DIK  %0,61350  (2)
+  FIIL_EMIR_O_SIN  %0,30675  (1)
+  FIIL_DONUSUM_ILI  %0,30675  (1)
+
+FIIL_GECMISZAMAN_DI Kullanim : %0,65972
+  BOS_EK  %68,42105  (13)
+  FIIL_KISI_ONLAR  %15,78947  (3)
+  FIIL_KISI_BIZ  %10,52632  (2)
+  FIIL_KISI_SIZ  %5,26316  (1)
+
+ISIM_ILGI_CI Kullanim : %0,03472
+  ISIM_DURUM_LIK  %100,00000  (1)
+
+FIIL_KISI_SIZ Kullanim : %0,03472
+  BOS_EK  %100,00000  (1)
+
+ZAMIR_KOK Kullanim : %2,63889
+  BOS_EK  %77,63158  (59)
+  ISIM_TAMLAMA_IN  %7,89474  (6)
+  ISIM_YONELME_E  %6,57895  (5)
+  ISIM_BELIRTME_I  %6,57895  (5)
+  ISIM_TANIMLAMA_DIR  %1,31579  (1)
+
+SAYI_SIRA_INCI Kullanim : %0,03472
+  BOS_EK  %100,00000  (1)
+
+ZAMAN_BELIRTME_KI Kullanim : %0,03472
+  BOS_EK  %100,00000  (1)
+
+ISIM_BIRLIKTELIK_LE Kullanim : %0,79861
+  BOS_EK  %100,00000  (23)
+
+IMEK_KOK Kullanim : %0,13889
+  BOS_EK  %50,00000  (2)
+  IMEK_ZAMAN_KEN  %50,00000  (2)
+
+FIIL_ETTIRGEN_TIR Kullanim : %0,10417
+  FIIL_GENISZAMAN_IR  %66,66667  (2)
+  FIIL_DONUSUM_EN  %33,33333  (1)
+
+ISIM_DONUSUM_LE Kullanim : %0,06944
+  FIIL_SIMDIKIZAMAN_IYOR  %50,00000  (1)
+  FIIL_DONUSUM_ME  %50,00000  (1)
+
+ISIM_SAHIPLIK_BEN_IM Kullanim : %0,03472
+  BOS_EK  %100,00000  (1)
+
+ISIM_TANIMLAMA_DIR Kullanim : %0,48611
+  BOS_EK  %100,00000  (14)
+
+IMEK_SART_SE Kullanim : %0,03472
+  BOS_EK  %100,00000  (1)
+
+OZEL_KOK Kullanim : %0,59028
+  BOS_EK  %100,00000  (17)
+
+
+
+1. daha-sonra (15)
+2. yeni-bir (11)
+3. ev-bilgisayar (9)
+4. bir-ip (7)
+5. bir-ok (7)
+6. bir-bilgisayar (7)
+7. yeni-ve (6)
+8. en-iyi (6)
+9. ve-yeni (5)
+10. ile-ilgili (5)
+11. nemli-bir (5)
+12. teknoloji-stratejisi (5)
+13. ve-ses (5)
+14. grafik-ve (5)
+15. bu-bir (4)
+16. yeni-teknolojinin (4)
+17. de-daha (4)
+18. bir-yeni (4)
+19. bu-arada (4)
+20. her-zaman (4)
+21. entegre-devre (3)
+22. pazar-ve (3)
+23. iletme-stratejisi (3)
+24. ve-en (3)
+25. olarak-bir (3)
+26. teknolojik-ve (3)
+27. ve-bu (3)
+28. stratejisi-ile (3)
+29. daha-bir (3)
+30. teknoloji-stratejisinin (3)
+31. bu-vaka (3)
+32. bir-olarak (3)
+33. ilgili-bir (3)
+34. daha-fazla (3)
+35. performans-ve (3)
+36. mevcut-en (3)
+37. de-bir (3)
+38. ayn-zamanda (3)
+39. atari-de (3)
+40. rakiplerin-gelecekteki (3)
+41. bir-performans (3)
+42. sadece-bir (3)
+43. ip-zerine (3)
+44. ve-grafik (3)
+45. teknolojiyi-kullanacak (3)
+46. olsa-iyi (3)
+47. ve-fiyat (3)
+48. bu-durum (3)
+49. iyi-ve (3)
+50. bir-rekabet (3)
+51. sonra-bu (3)
+52. tek-bir (3)
+53. stratejisi-ve (3)
+54. iyi-olur (3)
+55. hem-de (3)
+56. bu-sorun (2)
+57. ve-kararlar (2)
+58. rakiplerin-fikirleri (2)
+59. nem-temel (2)
+60. ve-olsa (2)
+61. teknik-ve (2)
+62. fazla-para (2)
+63. bir-karar (2)
+64. arada-daha (2)
+65. bununla-birlikte (2)
+66. olarak-daha (2)
+67. kadar-bir (2)
+68. tek-bana (2)
+69. daha-yeni (2)
+70. ve-atari (2)
+71. ok-daha (2)
+72. ve-zamanlama (2)
+73. bu-bilgisayar (2)
+74. ticari-bir (2)
+75. olarak-ve (2)
+76. karar-ve (2)
+77. basit-olarak (2)
+78. yeni-modeli (2)
+79. yeni-bilgisayar (2)
+80. ilgin-bir (2)
+81. yeni-performans (2)
+82. yeni-teknolojik (2)
+83. bir-sonra (2)
+84. teknolojik-bu (2)
+85. olan-bir (2)
+86. yeni-iplerin (2)
+87. agresif-bir (2)
+88. bunu-bir (2)
+89. daha-dk (2)
+90. ne-konusunda (2)
+91. ses-ipi (2)
+92. ve-patronu (2)
+93. dk-kaliteli (2)
+94. bir-grafik (2)
+95. daha-nemli (2)
+96. ve-uygun (2)
+97. teknik-olarak (2)
+98. ve-daha (2)
+99. atari-personeli (2)
+100. atari-ve (2)
+101. de-bu (2)
+102. bu-bilgisayarlar (2)
+103. yapmaya-karar (2)
+104. devre-ipi (2)
+105. iki-bilgi (2)
+106. bilgi-kayna (2)
+107. fiyat-dolar (2)
+108. ses-ve (2)
+109. fuardan-sonra (2)
+110. performans-sadece (2)
+111. ok-ve (2)
+112. temel-sebebi (2)
+113. bir-daha (2)
+114. sonra-ekibi (2)
+115. o-an (2)
+116. ile-ip (2)
+117. yeni-teknoloji (2)
+118. ile-dolar (2)
+119. bilgisayar-yeni (2)
+120. ilgili-olarak (2)
+121. ileri-teknoloji (2)
+122. bir-ancak (2)
+123. yeni-teknolojiyi (2)
+124. ve-ileri (2)
+125. bir-teknolojik (2)
+126. bir-pazar (2)
+127. bir-araya (2)
+128. ucuz-bir (2)
+129. olur-eklinde (2)
+130. hem-hem (2)
+131. pazarlama-ve (2)
+132. bilgisayarlar-ile (2)
+133. bilgisayar-de (2)
+134. ipi-yapmaya (2)
+135. uzun-vadede (2)
+136. herhangi-bir (2)
+137. olmakla-birlikte (2)
+138. bir-rekabeti (2)
+139. teknolojisi-ile (2)
+140. bilgisayar-ortaya (2)
+141. bilgisayar-daha (2)
+142. dolar-olarak (2)
+143. ve-bir (2)
+144. kayna-pazar (1)
+145. olarak-ortaya (1)
+146. bunu-ev (1)
+147. uygun-zamanda (1)
+148. en-eksiklerinden (1)
+149. hedefler-piyasa (1)
+150. bir-firma (1)
+151. dinlerken-zihninin (1)
+152. biri-daha (1)
+153. dk-ucuz (1)
+154. soru-bu (1)
+155. yeni-ne (1)
+156. ironi-teknik (1)
+157. iletmeye-kalite (1)
+158. zedeleyecek-kalitesiz (1)
+159. ve-gibi (1)
+160. yapabildiniz-fuardan (1)
+161. aynda-bir (1)
+162. temel-sorun (1)
+163. kendisi-ayn (1)
+164. ibarettir-bu (1)
+165. vermesi-gerekiyordu (1)
+166. dolar-daha (1)
+167. ise-oyunlar (1)
+168. sonra-bir (1)
+169. bir-teknoloji (1)
+170. bir-yenilikten (1)
+171. ses-gerekiyordu (1)
+172. hedeflerimiz-basitlik (1)
+173. ve-ikinci (1)
+174. performans-periyodik (1)
+175. sonra-dolar (1)
+176. pazar-ekmesi (1)
+177. ip-aleyhine (1)
+178. ekonomik-zinciri (1)
+179. sorun-ortaya (1)
+180. ipi-olan (1)
+181. bulunmuyordu-bunun (1)
+182. da-devrelerin (1)
+183. patronuna-iletti (1)
+184. zorlu-bir (1)
+185. o-rakip (1)
+186. tahmin-etti (1)
+187. piyasaya-takdirde (1)
+188. daha-model (1)
+189. sahibi-kapatarak (1)
+190. video-isteyen (1)
+191. bellek-kullanan (1)
+192. fiyat-rekabeti (1)
+193. durum-iletme (1)
+194. ok-etkileri (1)
+195. biti-zaman (1)
+196. bunu-dolara (1)
+197. dk-maliyetti (1)
+198. da-biraz (1)
+199. istek-listemizdeki (1)
+200. bu-hatalar (1)
+201. maliyet-uygun (1)
+202. iyi-bir (1)
+203. gelecekte-neler (1)
+204. apple-birlikte (1)
+205. girmesiyle-bir (1)
+206. karar-verdiler (1)
+207. rekabeti-yeni (1)
+208. oyununu-yapmak (1)
+209. atari-isim (1)
+210. rekabet-sebebiyle (1)
+211. fuarda-yeni (1)
+212. oyuncak-ok (1)
+213. dk-fiyata (1)
+214. de-inceledik (1)
+215. kararlar-her (1)
+216. sebebi-rakiplerin (1)
+217. ip-ve (1)
+218. tar-bunu (1)
+219. hedefleri-ve (1)
+220. uygun-bir (1)
+221. daha-ve (1)
+222. sunma-ekibinin (1)
+223. tekrar-rekabette (1)
+224. periyodik-konusuna (1)
+225. atari-ipleri (1)
+226. romu-salt (1)
+227. de-belirtelim (1)
+228. kaybetmeye-bu (1)
+229. ancak-ortalama (1)
+230. sebebiyle-bu (1)
+231. bir-kalite (1)
+232. rekabetin-girdi (1)
+233. ev-her (1)
+234. zerinde-gerektirir (1)
+235. de-ele (1)
+236. olan-daha (1)
+237. yeni-ev (1)
+238. yol-yeni (1)
+239. teknik-hedefler (1)
+240. bile-bir (1)
+241. yeni-de (1)
+242. teknolojisini-daha (1)
+243. gerektirir-yeni (1)
+244. ihtimalinden-dolay (1)
+245. nihayet-ok (1)
+246. ancak-kendine (1)
+247. ekibin-bana (1)
+248. k-biz (1)
+249. ok-sorun (1)
+250. miktar-elde (1)
+
+
+
+
+0. bir [125] Oran(%): 2,856 AraToplam(%): 2,856
+1. le [117] Oran(%): 2,673 AraToplam(%): 5,529
+2. ve [103] Oran(%): 2,353 AraToplam(%): 7,882
+3. de [96] Oran(%): 2,193 AraToplam(%): 10,075
+4. la [94] Oran(%): 2,148 AraToplam(%): 12,223
+5. ni [94] Oran(%): 2,148 AraToplam(%): 14,371
+6. i [88] Oran(%): 2,011 AraToplam(%): 16,381
+7. o [82] Oran(%): 1,873 AraToplam(%): 18,255
+8. ri [81] Oran(%): 1,851 AraToplam(%): 20,105
+9. ye [79] Oran(%): 1,805 AraToplam(%): 21,910
+10. da [78] Oran(%): 1,782 AraToplam(%): 23,692
+11. ka [78] Oran(%): 1,782 AraToplam(%): 25,474
+12. li [74] Oran(%): 1,691 AraToplam(%): 27,165
+13. ra [73] Oran(%): 1,668 AraToplam(%): 28,833
+14. sa [70] Oran(%): 1,599 AraToplam(%): 30,432
+15. tek [62] Oran(%): 1,416 AraToplam(%): 31,848
+16. ha [59] Oran(%): 1,348 AraToplam(%): 33,196
+17. te [59] Oran(%): 1,348 AraToplam(%): 34,544
+18. ya [55] Oran(%): 1,257 AraToplam(%): 35,801
+19. gi [54] Oran(%): 1,234 AraToplam(%): 37,034
+20. re [53] Oran(%): 1,211 AraToplam(%): 38,245
+21. no [51] Oran(%): 1,165 AraToplam(%): 39,411
+22. ta [51] Oran(%): 1,165 AraToplam(%): 40,576
+23. lo [50] Oran(%): 1,142 AraToplam(%): 41,718
+24. lar [47] Oran(%): 1,074 AraToplam(%): 42,792
+25. ti [43] Oran(%): 0,982 AraToplam(%): 43,774
+26. ne [41] Oran(%): 0,937 AraToplam(%): 44,711
+27. ki [40] Oran(%): 0,914 AraToplam(%): 45,625
+28. rak [38] Oran(%): 0,868 AraToplam(%): 46,493
+29. bi [38] Oran(%): 0,868 AraToplam(%): 47,361
+30. bu [38] Oran(%): 0,868 AraToplam(%): 48,229
+31. Bu [37] Oran(%): 0,845 AraToplam(%): 49,075
+32. bil [37] Oran(%): 0,845 AraToplam(%): 49,920
+33. ge [36] Oran(%): 0,822 AraToplam(%): 50,743
+34. ma [36] Oran(%): 0,822 AraToplam(%): 51,565
+35. me [35] Oran(%): 0,800 AraToplam(%): 52,365
+36. yar [34] Oran(%): 0,777 AraToplam(%): 53,141
+37. ji [33] Oran(%): 0,754 AraToplam(%): 53,895
+38. ip [32] Oran(%): 0,731 AraToplam(%): 54,626
+39. si [32] Oran(%): 0,731 AraToplam(%): 55,358
+40. nu [29] Oran(%): 0,663 AraToplam(%): 56,020
+41. cak [28] Oran(%): 0,640 AraToplam(%): 56,660
+42. be [27] Oran(%): 0,617 AraToplam(%): 57,277
+43. du [26] Oran(%): 0,594 AraToplam(%): 57,871
+44. son [26] Oran(%): 0,594 AraToplam(%): 58,465
+45. e [25] Oran(%): 0,571 AraToplam(%): 59,036
+46. rin [25] Oran(%): 0,571 AraToplam(%): 59,607
+47. na [25] Oran(%): 0,571 AraToplam(%): 60,178
+48. fi [24] Oran(%): 0,548 AraToplam(%): 60,727
+49. di [23] Oran(%): 0,525 AraToplam(%): 61,252
+50. lan [23] Oran(%): 0,525 AraToplam(%): 61,777
+51. pi [23] Oran(%): 0,525 AraToplam(%): 62,303
+52. ok [22] Oran(%): 0,503 AraToplam(%): 62,806
+53. pa [22] Oran(%): 0,503 AraToplam(%): 63,308
+54. so [22] Oran(%): 0,503 AraToplam(%): 63,811
+55. a [21] Oran(%): 0,480 AraToplam(%): 64,291
+56. en [21] Oran(%): 0,480 AraToplam(%): 64,770
+57. nin [21] Oran(%): 0,480 AraToplam(%): 65,250
+58. ler [21] Oran(%): 0,480 AraToplam(%): 65,730
+59. rar [20] Oran(%): 0,457 AraToplam(%): 66,187
+60. ce [19] Oran(%): 0,434 AraToplam(%): 66,621
+61. per [19] Oran(%): 0,434 AraToplam(%): 67,055
+62. rek [18] Oran(%): 0,411 AraToplam(%): 67,466
+63. nem [18] Oran(%): 0,411 AraToplam(%): 67,878
+64. yi [18] Oran(%): 0,411 AraToplam(%): 68,289
+65. za [18] Oran(%): 0,411 AraToplam(%): 68,700
+66. ba [17] Oran(%): 0,388 AraToplam(%): 69,088
+67. ev [17] Oran(%): 0,388 AraToplam(%): 69,477
+68. yat [17] Oran(%): 0,388 AraToplam(%): 69,865
+69. ze [17] Oran(%): 0,388 AraToplam(%): 70,254
+70. an [16] Oran(%): 0,366 AraToplam(%): 70,619
+71. A [16] Oran(%): 0,366 AraToplam(%): 70,985
+72. bet [16] Oran(%): 0,366 AraToplam(%): 71,350
+73. for [16] Oran(%): 0,366 AraToplam(%): 71,716
+74. kip [16] Oran(%): 0,366 AraToplam(%): 72,081
+75. et [15] Oran(%): 0,343 AraToplam(%): 72,424
+76. il [15] Oran(%): 0,343 AraToplam(%): 72,767
+77. mak [15] Oran(%): 0,343 AraToplam(%): 73,109
+78. man [15] Oran(%): 0,343 AraToplam(%): 73,452
+79. ol [15] Oran(%): 0,343 AraToplam(%): 73,795
+80. se [15] Oran(%): 0,343 AraToplam(%): 74,138
+81. mans [15] Oran(%): 0,343 AraToplam(%): 74,480
+82. ko [14] Oran(%): 0,320 AraToplam(%): 74,800
+83. nik [14] Oran(%): 0,320 AraToplam(%): 75,120
+84. jik [14] Oran(%): 0,320 AraToplam(%): 75,440
+85. Ye [14] Oran(%): 0,320 AraToplam(%): 75,760
+86. den [13] Oran(%): 0,297 AraToplam(%): 76,057
+87. or [13] Oran(%): 0,297 AraToplam(%): 76,354
+88. lik [13] Oran(%): 0,297 AraToplam(%): 76,651
+89. lin [13] Oran(%): 0,297 AraToplam(%): 76,948
+90. lir [13] Oran(%): 0,297 AraToplam(%): 77,245
+91. fik [12] Oran(%): 0,274 AraToplam(%): 77,519
+92. dir [12] Oran(%): 0,274 AraToplam(%): 77,793
+93. gra [12] Oran(%): 0,274 AraToplam(%): 78,067
+94. mi [12] Oran(%): 0,274 AraToplam(%): 78,341
+95. zar [12] Oran(%): 0,274 AraToplam(%): 78,615
+96. ayn [12] Oran(%): 0,274 AraToplam(%): 78,890
+97. cek [11] Oran(%): 0,251 AraToplam(%): 79,141
+98. ca [11] Oran(%): 0,251 AraToplam(%): 79,392
+99. ek [11] Oran(%): 0,251 AraToplam(%): 79,644
+100. Do [11] Oran(%): 0,251 AraToplam(%): 79,895
+101. ken [11] Oran(%): 0,251 AraToplam(%): 80,146
+102. run [11] Oran(%): 0,251 AraToplam(%): 80,398
+103. dan [11] Oran(%): 0,251 AraToplam(%): 80,649
+104. tah [11] Oran(%): 0,251 AraToplam(%): 80,900
+105. yor [10] Oran(%): 0,228 AraToplam(%): 81,129
+106. yun [10] Oran(%): 0,228 AraToplam(%): 81,357
+107. Tek [10] Oran(%): 0,228 AraToplam(%): 81,586
+108. u [9] Oran(%): 0,206 AraToplam(%): 81,791
+109. do [9] Oran(%): 0,206 AraToplam(%): 81,997
+110. Da [9] Oran(%): 0,206 AraToplam(%): 82,202
+111. ke [9] Oran(%): 0,206 AraToplam(%): 82,408
+112. let [9] Oran(%): 0,206 AraToplam(%): 82,614
+113. cut [9] Oran(%): 0,206 AraToplam(%): 82,819
+114. ru [9] Oran(%): 0,206 AraToplam(%): 83,025
+115. min [9] Oran(%): 0,206 AraToplam(%): 83,231
+116. nun [9] Oran(%): 0,206 AraToplam(%): 83,436
+117. dar [9] Oran(%): 0,206 AraToplam(%): 83,642
+118. ten [8] Oran(%): 0,183 AraToplam(%): 83,825
+119. he [8] Oran(%): 0,183 AraToplam(%): 84,007
+120. mo [8] Oran(%): 0,183 AraToplam(%): 84,190
+121. kan [8] Oran(%): 0,183 AraToplam(%): 84,373
+122. mev [8] Oran(%): 0,183 AraToplam(%): 84,556
+123. uy [8] Oran(%): 0,183 AraToplam(%): 84,738
+124. pro [8] Oran(%): 0,183 AraToplam(%): 84,921
+125. yet [8] Oran(%): 0,183 AraToplam(%): 85,104
+126. her [8] Oran(%): 0,183 AraToplam(%): 85,287
+127. ilk [8] Oran(%): 0,183 AraToplam(%): 85,469
+128. dev [7] Oran(%): 0,160 AraToplam(%): 85,629
+129. kul [7] Oran(%): 0,160 AraToplam(%): 85,789
+130. ses [7] Oran(%): 0,160 AraToplam(%): 85,949
+131. dik [7] Oran(%): 0,160 AraToplam(%): 86,109
+132. is [7] Oran(%): 0,160 AraToplam(%): 86,269
+133. je [7] Oran(%): 0,160 AraToplam(%): 86,429
+134. kar [7] Oran(%): 0,160 AraToplam(%): 86,589
+135. sun [7] Oran(%): 0,160 AraToplam(%): 86,749
+136. va [7] Oran(%): 0,160 AraToplam(%): 86,909
+137. hem [7] Oran(%): 0,160 AraToplam(%): 87,069
+138. def [6] Oran(%): 0,137 AraToplam(%): 87,206
+139. ran [6] Oran(%): 0,137 AraToplam(%): 87,343
+140. ci [6] Oran(%): 0,137 AraToplam(%): 87,480
+141. im [6] Oran(%): 0,137 AraToplam(%): 87,617
+142. mel [6] Oran(%): 0,137 AraToplam(%): 87,754
+143. rum [6] Oran(%): 0,137 AraToplam(%): 87,891
+144. An [5] Oran(%): 0,114 AraToplam(%): 88,005
+145. O [5] Oran(%): 0,114 AraToplam(%): 88,120
+146. sit [5] Oran(%): 0,114 AraToplam(%): 88,234
+147. hi [5] Oran(%): 0,114 AraToplam(%): 88,348
+148. bin [5] Oran(%): 0,114 AraToplam(%): 88,462
+149. gun [5] Oran(%): 0,114 AraToplam(%): 88,577
+150. mu [5] Oran(%): 0,114 AraToplam(%): 88,691
+151. mek [5] Oran(%): 0,114 AraToplam(%): 88,805
+152. kay [5] Oran(%): 0,114 AraToplam(%): 88,919
+153. App [5] Oran(%): 0,114 AraToplam(%): 89,034
+154. len [5] Oran(%): 0,114 AraToplam(%): 89,148
+155. ro [5] Oran(%): 0,114 AraToplam(%): 89,262
+156. cuz [5] Oran(%): 0,114 AraToplam(%): 89,376
+157. yap [5] Oran(%): 0,114 AraToplam(%): 89,491
+158. kir [5] Oran(%): 0,114 AraToplam(%): 89,605
+159. yo [5] Oran(%): 0,114 AraToplam(%): 89,719
+160. Yi [5] Oran(%): 0,114 AraToplam(%): 89,833
+161. gel [5] Oran(%): 0,114 AraToplam(%): 89,947
+162. ver [5] Oran(%): 0,114 AraToplam(%): 90,062
+163. sat [5] Oran(%): 0,114 AraToplam(%): 90,176
+164. lur [4] Oran(%): 0,091 AraToplam(%): 90,267
+165. ter [4] Oran(%): 0,091 AraToplam(%): 90,359
+166. al [4] Oran(%): 0,091 AraToplam(%): 90,450
+167. ar [4] Oran(%): 0,091 AraToplam(%): 90,541
+168. bo [4] Oran(%): 0,091 AraToplam(%): 90,633
+169. tir [4] Oran(%): 0,091 AraToplam(%): 90,724
+170. pat [4] Oran(%): 0,091 AraToplam(%): 90,816
+171. ri' [4] Oran(%): 0,091 AraToplam(%): 90,907
+172. sin [4] Oran(%): 0,091 AraToplam(%): 90,998
+173. gu [4] Oran(%): 0,091 AraToplam(%): 91,090
+174. in [4] Oran(%): 0,091 AraToplam(%): 91,181
+175. it [4] Oran(%): 0,091 AraToplam(%): 91,273
+176. ku [4] Oran(%): 0,091 AraToplam(%): 91,364
+177. lu [4] Oran(%): 0,091 AraToplam(%): 91,455
+178. nek [4] Oran(%): 0,091 AraToplam(%): 91,547
+179. nen [4] Oran(%): 0,091 AraToplam(%): 91,638
+180. disk [4] Oran(%): 0,091 AraToplam(%): 91,729
+181. Pa [4] Oran(%): 0,091 AraToplam(%): 91,821
+182. mik [4] Oran(%): 0,091 AraToplam(%): 91,912
+183. lim [4] Oran(%): 0,091 AraToplam(%): 92,004
+184. kin [4] Oran(%): 0,091 AraToplam(%): 92,095
+185. tar [4] Oran(%): 0,091 AraToplam(%): 92,186
+186. mut [4] Oran(%): 0,091 AraToplam(%): 92,278
+187. kri [4] Oran(%): 0,091 AraToplam(%): 92,369
+188. lun [3] Oran(%): 0,069 AraToplam(%): 92,438
+189. del [3] Oran(%): 0,069 AraToplam(%): 92,506
+190. der [3] Oran(%): 0,069 AraToplam(%): 92,575
+191. teg [3] Oran(%): 0,069 AraToplam(%): 92,643
+192. ag [3] Oran(%): 0,069 AraToplam(%): 92,712
+193. az [3] Oran(%): 0,069 AraToplam(%): 92,780
+194. dil [3] Oran(%): 0,069 AraToplam(%): 92,849
+195. zun [3] Oran(%): 0,069 AraToplam(%): 92,918
+196. ret [3] Oran(%): 0,069 AraToplam(%): 92,986
+197. fa [3] Oran(%): 0,069 AraToplam(%): 93,055
+198. sif [3] Oran(%): 0,069 AraToplam(%): 93,123
+199. sim [3] Oran(%): 0,069 AraToplam(%): 93,192
+200. ga [3] Oran(%): 0,069 AraToplam(%): 93,260
+201. siy [3] Oran(%): 0,069 AraToplam(%): 93,329
+202. Bir [3] Oran(%): 0,069 AraToplam(%): 93,397
+203. gru [3] Oran(%): 0,069 AraToplam(%): 93,466
+204. Fu [3] Oran(%): 0,069 AraToplam(%): 93,534
+205. Ge [3] Oran(%): 0,069 AraToplam(%): 93,603
+206. bit [3] Oran(%): 0,069 AraToplam(%): 93,671
+207. nar [3] Oran(%): 0,069 AraToplam(%): 93,740
+208. iz [3] Oran(%): 0,069 AraToplam(%): 93,809
+209. Ja [3] Oran(%): 0,069 AraToplam(%): 93,877
+210. mal [3] Oran(%): 0,069 AraToplam(%): 93,946
+211. Son [3] Oran(%): 0,069 AraToplam(%): 94,014
+212. lam [3] Oran(%): 0,069 AraToplam(%): 94,083
+213. Ni [3] Oran(%): 0,069 AraToplam(%): 94,151
+214. dur [3] Oran(%): 0,069 AraToplam(%): 94,220
+215. cun [3] Oran(%): 0,069 AraToplam(%): 94,288
+216. pon [3] Oran(%): 0,069 AraToplam(%): 94,357
+217. su [3] Oran(%): 0,069 AraToplam(%): 94,425
+218. yan [3] Oran(%): 0,069 AraToplam(%): 94,494
+219. tu [3] Oran(%): 0,069 AraToplam(%): 94,562
+220. hal [3] Oran(%): 0,069 AraToplam(%): 94,631
+221. lis [3] Oran(%): 0,069 AraToplam(%): 94,700
+222. vi [3] Oran(%): 0,069 AraToplam(%): 94,768
+223. yen [3] Oran(%): 0,069 AraToplam(%): 94,837
+224. mon [3] Oran(%): 0,069 AraToplam(%): 94,905
+225. faz [3] Oran(%): 0,069 AraToplam(%): 94,974
+226. vap [3] Oran(%): 0,069 AraToplam(%): 95,042
+227. hip [3] Oran(%): 0,069 AraToplam(%): 95,111
+228. taj [3] Oran(%): 0,069 AraToplam(%): 95,179
+229. tak [3] Oran(%): 0,069 AraToplam(%): 95,248
+230. tan [3] Oran(%): 0,069 AraToplam(%): 95,316
+231. tam [3] Oran(%): 0,069 AraToplam(%): 95,385
+232. fark [2] Oran(%): 0,046 AraToplam(%): 95,431
+233. ak [2] Oran(%): 0,046 AraToplam(%): 95,476
+234. E [2] Oran(%): 0,046 AraToplam(%): 95,522
+235. sel [2] Oran(%): 0,046 AraToplam(%): 95,568
+236. Bi [2] Oran(%): 0,046 AraToplam(%): 95,613
+237. bep [2] Oran(%): 0,046 AraToplam(%): 95,659
+238. ber [2] Oran(%): 0,046 AraToplam(%): 95,705
+239. tik [2] Oran(%): 0,046 AraToplam(%): 95,751
+240. ren [2] Oran(%): 0,046 AraToplam(%): 95,796
+241. el [2] Oran(%): 0,046 AraToplam(%): 95,842
+242. pay [2] Oran(%): 0,046 AraToplam(%): 95,888
+243. ey [2] Oran(%): 0,046 AraToplam(%): 95,933
+244. yum [2] Oran(%): 0,046 AraToplam(%): 95,979
+245. sil [2] Oran(%): 0,046 AraToplam(%): 96,025
+246. sis [2] Oran(%): 0,046 AraToplam(%): 96,070
+247. nan [2] Oran(%): 0,046 AraToplam(%): 96,116
+248. rir [2] Oran(%): 0,046 AraToplam(%): 96,162
+249. nay [2] Oran(%): 0,046 AraToplam(%): 96,207
